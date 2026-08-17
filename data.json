@@ -316,6 +316,27 @@
       "appointmentAvailable": true,
       "status": "active",
       "category": "allopathy"
+    },
+    {
+      "id": "D016",
+      "name": "Md. Maruf Hossain",
+      "degree": "MBBS",
+      "qualification": "dsada",
+      "specialty": "sdasd",
+      "gender": "Male",
+      "experience": "leaver",
+      "hospital": "thakurgaon",
+      "chamber": "desh",
+      "district": "thakurgaon",
+      "address": "thakurgaon",
+      "phone": "017000000097",
+      "visitingDays": null,
+      "visitingTime": null,
+      "image": null,
+      "about": null,
+      "appointmentAvailable": true,
+      "status": "active",
+      "category": "allopathy"
     }
   ],
   "hospitals": [
