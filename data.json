@@ -1,10 +1,10 @@
 {
-  "version": 6,
+  "version": 7,
   "lastUpdated": "2026-08-17",
   "doctors": [
     {
       "id": "D001",
-      "name": "Dr.Rubel Arif Hossain",
+      "name": "Dr. Arif Hossain",
       "degree": "MBBS, FCPS (Medicine)",
       "qualification": "MBBS, FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -14,7 +14,7 @@
       "chamber": "Greenlife General Hospital, Dhanmondi",
       "district": "Dhaka",
       "address": "House 12, Road 5, Dhanmondi, Dhaka",
-      "phone": "0179765",
+      "phone": "017976500001",
       "visitingDays": "Saturday - Thursday",
       "visitingTime": "5:00 PM - 9:00 PM",
       "image": "doctors/doctor_001.jpg",
