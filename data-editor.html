@@ -183,6 +183,10 @@
     z-index: 50;
     overflow-y: auto;
   }
+  /* The `hidden` attribute must beat the display:flex rule above, or the
+     empty modal would stay visible on every page load and its close
+     button would appear to do nothing. */
+  .modal-backdrop[hidden] { display: none !important; }
   .modal {
     background: #fff;
     border-radius: 14px;
@@ -256,6 +260,7 @@
   </div>
   <div class="header-actions">
     <button id="btnDownload" disabled>⬇ Download data.json</button>
+    <button id="btnPublish" class="ghost" disabled>⬆ Publish to GitHub</button>
     <button id="btnBundle" class="ghost" disabled>Download bundled (9 files)</button>
   </div>
 </header>
@@ -327,9 +332,11 @@
   </main>
 
   <footer>
-    For the app to pick up changes: download <b>data.json</b> → upload to
-    <b>github.com/shamimkhan28280/doctorcare-bd-data</b> (replace the old file) →
-    relaunch the app. It updates in the background when the version is newer.
+  For the app to pick up changes: click <b>Publish to GitHub</b> (downloads
+  <b>data.json</b> and opens the upload page for you), or download
+  <b>data.json</b> manually → upload to
+  <b>github.com/shamimkhan28280/doctorcare-bd-data</b> (replace the old file) →
+  relaunch the app. It updates in the background when the version is newer.
   </footer>
 </div>
 
@@ -509,6 +516,7 @@ var SECTIONS = [
 ];
 
 var STORE_KEY = 'dcbd_editor_db_v1';
+var REPO_UPLOAD_URL = 'https://github.com/shamimkhan28280/doctorcare-bd-data/upload/main';
 var DB = null;
 var currentTab = 'doctors';
 var editingId = null;      // id of the record being edited (null = adding)
@@ -565,6 +573,7 @@ function acceptData(obj, sourceLabel) {
   switchTab(currentTab);
   $('app').hidden = false;
   $('btnDownload').disabled = false;
+  $('btnPublish').disabled = false;
   $('btnBundle').disabled = false;
   setStatus('Loaded ' + sections + ' records (' + sourceLabel + '). Edit below, then download data.json.');
   toast('Loaded ' + sections + ' records', 'ok');
@@ -925,6 +934,30 @@ function exportUnified() {
   toast('Downloaded data.json (version ' + $('inVersion').value + ')', 'ok');
 }
 
+function publishToGitHub() {
+  if (!DB) {
+    toast('Load your data first.', 'err');
+    return;
+  }
+  var cur = parseInt($('inVersion').value, 10) || 1;
+  var ask = confirm(
+    'Publish data.json to GitHub?\n\n' +
+    'The app updates only when the hosted version is HIGHER than the installed one.\n' +
+    'Current version: ' + cur + '.\n\n' +
+    'OK     → bump to ' + (cur + 1) + ' and publish\n' +
+    'Cancel → publish as-is'
+  );
+  if (ask) {
+    $('inVersion').value = cur + 1;
+    $('inUpdated').value = today();
+    saveLocal();
+  }
+  download('data.json', unifiedJson());
+  window.open(REPO_UPLOAD_URL, '_blank');
+  toast('Downloaded data.json (version ' + $('inVersion').value +
+      ') — drag it onto the GitHub upload page that just opened, then click Commit changes.', 'ok');
+}
+
 function exportBundled() {
   var version = parseInt($('inVersion').value, 10) || 1;
   var updated = $('inUpdated').value || today();
@@ -1002,6 +1035,7 @@ $('btnBump').onclick = function () {
 };
 
 $('btnDownload').onclick = exportUnified;
+$('btnPublish').onclick = publishToGitHub;
 $('btnBundle').onclick = exportBundled;
 
 $('btnCopy').onclick = function () {
