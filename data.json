@@ -403,46 +403,6 @@
       "description": "Modern ambulances with trained attendants serving all of Dhaka city and nearby areas.",
       "image": "ambulances/ambulance_001.jpg",
       "status": "active"
-    },
-    {
-      "id": "A002",
-      "provider": "Chattogram Rescue Ambulance",
-      "phone": "01714000002",
-      "serviceArea": "Chattogram city",
-      "availability": "24/7",
-      "description": "Emergency and non-emergency ambulance service with oxygen support available on request.",
-      "image": "ambulances/ambulance_002.jpg",
-      "status": "active"
-    },
-    {
-      "id": "A003",
-      "provider": "Khulna Life Ambulance",
-      "phone": "01714000003",
-      "serviceArea": "Khulna & nearby upazilas",
-      "availability": "24/7",
-      "description": "Fast ambulance response across Khulna city and surrounding upazilas.",
-      "image": "ambulances/ambulance_003.jpg",
-      "status": "active"
-    },
-    {
-      "id": "A004",
-      "provider": "Rajshahi Quick Ambulance",
-      "phone": "01714000004",
-      "serviceArea": "Rajshahi city",
-      "availability": "6:00 AM - 11:00 PM",
-      "description": "Reliable ambulance service for hospital transfers and patient transport in Rajshahi.",
-      "image": "ambulances/ambulance_004.jpg",
-      "status": "active"
-    },
-    {
-      "id": "A005",
-      "provider": "Sylhet Care Ambulance",
-      "phone": "01714000005",
-      "serviceArea": "Sylhet city & airport",
-      "availability": "24/7",
-      "description": "Ambulance service covering Sylhet city, airport transfers and inter-city patient transport.",
-      "image": "ambulances/ambulance_005.jpg",
-      "status": "active"
     }
   ],
   "pharmacies": [
