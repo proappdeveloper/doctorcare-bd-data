@@ -75,6 +75,7 @@
       "district": "Thakurgaon",
       "phone": "01713671227",
       "emergencyAvailable": false,
+      "openingHours": "08 am to 12pm",
       "status": "active"
     }
   ],
@@ -353,6 +354,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 12,
+  "version": 13,
   "lastUpdated": "2026-08-26"
 }
