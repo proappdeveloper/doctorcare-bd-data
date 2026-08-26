@@ -60,7 +60,7 @@
       "address": "বঙ্গবন্ধু সড়ক, মরিয়ম মেনসন(গনপূর্ত বিভাগের বিপরীতে)",
       "district": "Thakurgaon",
       "phone": "01869061360",
-      "emergencyAvailable": true,
+      "emergencyAvailable": false,
       "openingHours": "08 am to 12pm",
       "status": "active"
     },
@@ -74,7 +74,7 @@
       "address": "ডাঃ মান্নান টাওয়ার (সদর হাসপাতালের পশ্চিম পার্শ্বে )",
       "district": "Thakurgaon",
       "phone": "01713671227",
-      "emergencyAvailable": true,
+      "emergencyAvailable": false,
       "openingHours": "08 am to 12pm",
       "status": "active"
     },
@@ -89,7 +89,7 @@
       "address": "ক্লিনিক লেন উত্তর হাজীপাড়া (ফায়ার ব্রিগেডের বিপরীতে- ঠাকুরগাঁও)",
       "district": "Thakurgaon",
       "phone": "01789672643",
-      "emergencyAvailable": true,
+      "emergencyAvailable": false,
       "openingHours": "08 am to 12pm",
       "status": "active"
     }
@@ -129,24 +129,16 @@
   "diagnosticCenters": [
     {
       "id": "DC001",
-      "name": "MedLab Diagnostic",
-      "address": "House 5, Road 11, Banani, Dhaka",
-      "district": "Dhaka",
-      "phone": "01716000001",
-      "openingHours": "7:00 AM - 10:00 PM",
+      "name": "দি আপডেট ডায়গনষ্টিক সেন্টার",
+      "address": "ঙ্গবন্ধু সড়ক, হাজিপাড়া রোড ঠাকুরগাঁও -৫১০০রগাঁও)",
+      "district": "Thakurgaon",
+      "phone": "01749001460",
+      "openingHours": "7:00 AM - 12:00 PM",
       "services": [
-        "Blood Tests",
-        "Imaging",
-        "Health Packages",
-        "Home Sample Collection"
+        "Blood Tests,Imaging,Health Packages,Home Sample Collection"
       ],
       "availableTests": [
-        "CBC",
-        "Blood Sugar",
-        "Lipid Profile",
-        "Ultrasound",
-        "X-Ray",
-        "ECG"
+        "CBC,Blood Sugar,Lipid Profile,Ultrasound,X-Ray,ECG"
       ],
       "about": "A modern diagnostic center in Banani offering pathology and imaging with home sample collection.",
       "image": "diagnostics/diagnostic_001.jpg",
@@ -369,6 +361,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 15,
+  "version": 16,
   "lastUpdated": "2026-08-26"
 }
