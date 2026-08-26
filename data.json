@@ -144,10 +144,10 @@
   "diagnosticCenters": [
     {
       "id": "DC001",
-      "name": "দি আপডেট ডায়গনষ্টিক সেন্টার",
-      "address": "ঙ্গবন্ধু সড়ক, হাজিপাড়া রোড ঠাকুরগাঁও -৫১০০রগাঁও)",
+      "name": "সেন্ট্রাল ডায়াগনষ্টিক সেন্টার (সিডিসি)",
+      "address": "বঙ্গবন্ধু সড়ক, ঠাকুরগাঁও (জিলা স্কুল বড় মাঠের পুর্ব পার্শ্বে,আনসার ভিডিপি এর সামনে পাঁচতলা বিল্ডিং",
       "district": "Thakurgaon",
-      "phone": "01749001460",
+      "phone": "01774336336",
       "openingHours": "7:00 AM - 12:00 PM",
       "services": [
         "Blood Tests,Imaging,Health Packages,Home Sample Collection"
@@ -159,6 +159,23 @@
       "image": "diagnostics/diagnostic_001.jpg",
       "status": "active",
       "type": "Diagnostic Center"
+    },
+    {
+      "id": "DC002",
+      "name": "কমফোর্ট ডায়াগনষ্টিক সেন্টার",
+      "type": "Diagnostic Center",
+      "address": "ক্লিনিক লেন উত্তর হাজীপাড়া (ফায়ার ব্রিগেডের বিপরীতে ঠাকুরগাঁও",
+      "district": "Thakurgaon",
+      "phone": "01766241916",
+      "openingHours": "8:00 AM - 12:00 PM",
+      "services": [
+        "Blood Tests,Imaging,Health Packages,Home Sample Collection"
+      ],
+      "availableTests": [
+        "Blood Tests,Imaging,Health Packages,Home Sample Collection"
+      ],
+      "about": "কমফোর্ট ডায়াগনষ্টিক সেন্টার\nক্লিনিক লেন উত্তর হাজীপাড়া (ফায়ার ব্রিগেডের বিপরীতে ঠাকুরগাঁও",
+      "status": "active"
     }
   ],
   "healthTips": [
@@ -377,6 +394,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 22,
+  "version": 23,
   "lastUpdated": "2026-08-26"
 }
