@@ -61,6 +61,7 @@
       "district": "Thakurgaon",
       "phone": "01869061360",
       "emergencyAvailable": false,
+      "openingHours": "08 am to 12pm",
       "status": "active"
     },
     {
@@ -352,6 +353,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 11,
+  "version": 12,
   "lastUpdated": "2026-08-26"
 }
