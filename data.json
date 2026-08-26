@@ -580,6 +580,23 @@
       "visitingTime": "সকাল ১০.০০ টা থেকে রাত ০৯.০০ টা",
       "category": "allopathy",
       "status": "active"
+    },
+    {
+      "id": "D033",
+      "name": "ডাঃ অনুপম ঝাঁ",
+      "degree": "এমবিবিএস, বিসিএস (স্বাস্থ্য), ডি কার্ড (বিএসএমএমইউ) সিসিডি (বারডেম)",
+      "qualification": "এমবিবিএস, বিসিএস (স্বাস্থ্য), ডি কার্ড (বিএসএমএমইউ) সিসিডি (বারডেম) কনসালটেন্ট কার্ডিওলজি বিভাগ- ২৫০ শয্যা বিশিষ্ট জেনারেল হাসপাতাল, ঠাকুরগাঁও মেডিসিন-উচ্চ রক্তচাপ-হৃদরোগ বিশেষজ্ঞ",
+      "specialty": "Cardiology Specialist",
+      "gender": "Male",
+      "experience": "মেডিসিন-উচ্চ রক্তচাপ-হৃদরোগ বিশেষজ্ঞ",
+      "hospital": "দেশ এক্স-রে ক্লিনিক এন্ড প্যাথলজি",
+      "district": "Thakurgaon",
+      "address": "চেম্বারঃ দেশ এক্স-রে ক্লিনিক এন্ড প্যাথলজি",
+      "phone": "01722415651",
+      "visitingDays": "প্রতিদিন বিকাল ০৩ টা হতে রাত ১০ টা শুক্রবার সারাদিন",
+      "visitingTime": "বিকাল ০৩ টা হতে রাত ১০ টা",
+      "category": "allopathy",
+      "status": "active"
     }
   ],
   "hospitals": [
@@ -827,12 +844,68 @@
   "ambulances": [
     {
       "id": "A001",
-      "provider": "City Ambulance Service",
-      "phone": "01714000001",
-      "serviceArea": "Dhaka (all areas)",
+      "provider": "মাফি এ্যামবুলেন্স সার্ভিস",
+      "phone": "01773398134",
+      "serviceArea": "all areas",
       "availability": "24/7",
-      "description": "Modern ambulances with trained attendants serving all of Dhaka city and nearby areas.",
+      "description": "মাফি এ্যামবুলেন্স সার্ভিস, প্রোঃ মোঃ আল মাসুম, বিঃ দ্রঃ অসুস্থ রোগীদের জন্য এসি ও অক্সিজেনের ব্যবস্থা আছে!",
       "image": "ambulances/ambulance_001.jpg",
+      "status": "active"
+    },
+    {
+      "id": "A002",
+      "provider": "হাসান এ্যামবুলেন্স সার্ভিস",
+      "phone": "01793988862",
+      "serviceArea": "All Area",
+      "description": "হাসান এ্যামবুলেন্স সার্ভিস, ড্রাইভারঃ ইয়াছিন আরাফাত",
+      "status": "active"
+    },
+    {
+      "id": "A003",
+      "provider": "ইএসডিও শিশু ও কমিনিউটি হাসপাতাল-ঠাকুরগাঁও",
+      "phone": "01713149207",
+      "serviceArea": "ঠাকুরগাঁও",
+      "description": "ইএসডিও শিশু ও কমিনিউটি হাসপাতাল-ঠাকুরগাঁও",
+      "status": "active"
+    },
+    {
+      "id": "A004",
+      "provider": "ইব্রাহিম এ্যাম্বুলেন্স সার্ভিস",
+      "phone": "01306617170",
+      "serviceArea": "All Area",
+      "description": "ইব্রাহিম এ্যাম্বুলেন্স সার্ভিস-সর্বাধুনকি এ্যম্বুলেন্স সেবাদানকারী প্রতিষ্ঠান!",
+      "status": "active"
+    },
+    {
+      "id": "A005",
+      "provider": "মিরাজ এ্যামবুলেন্স সার্ভিস",
+      "phone": "01920950369",
+      "serviceArea": "All Area",
+      "description": "মিরাজ এ্যামবুলেন্স সার্ভিস",
+      "status": "active"
+    },
+    {
+      "id": "A006",
+      "provider": "আনিসুর এ্যামবুলেন্স সার্ভিস",
+      "phone": "01725496106",
+      "serviceArea": "All Area",
+      "description": "আনিসুর এ্যামবুলেন্স সার্ভিস",
+      "status": "active"
+    },
+    {
+      "id": "A007",
+      "provider": "লাবিব এ্যামবুলেন্স সার্ভিস",
+      "phone": "01716539884",
+      "serviceArea": "All Area",
+      "description": "লাবিব এ্যামবুলেন্স সার্ভিস",
+      "status": "active"
+    },
+    {
+      "id": "A008",
+      "provider": "সিমান্ত এ্যামবুলেন্স সার্ভিস",
+      "phone": "01842492005",
+      "serviceArea": "All Area",
+      "description": "সিমান্ত এ্যামবুলেন্স সার্ভিস",
       "status": "active"
     }
   ],
@@ -1222,6 +1295,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 47,
+  "version": 48,
   "lastUpdated": "2026-08-26"
 }
