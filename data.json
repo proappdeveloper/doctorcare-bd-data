@@ -157,7 +157,8 @@
       ],
       "about": "A modern diagnostic center in Banani offering pathology and imaging with home sample collection.",
       "image": "diagnostics/diagnostic_001.jpg",
-      "status": "active"
+      "status": "active",
+      "type": "Diagnostic Center"
     }
   ],
   "healthTips": [
@@ -376,6 +377,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 20,
+  "version": 21,
   "lastUpdated": "2026-08-26"
 }
