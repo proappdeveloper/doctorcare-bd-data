@@ -238,6 +238,83 @@
       "emergencyAvailable": false,
       "openingHours": "8:00 AM - 12:00 PM",
       "status": "active"
+    },
+    {
+      "id": "H009",
+      "name": "লাইফ এইড হাসপাতাল",
+      "type": "Hospital",
+      "about": "লাইফ এইড হাসপাতাল \nসরকার পাড়া- ঠাকুরগাঁও",
+      "services": [
+        "হাসপাতাল"
+      ],
+      "address": "হ্যাডসের মোড়, সদর হাসপাতালের পিছনে, সরকারপাড়া, ঠাকুরগাঁও",
+      "district": "Thakurgaon",
+      "phone": "01730782982",
+      "emergencyAvailable": true,
+      "status": "active"
+    },
+    {
+      "id": "H010",
+      "name": "ইএসডিও শিশু ও কমিউনিটি হাসপাতাল",
+      "type": "Hospital",
+      "services": [
+        "কমিউনিটি হাসপাতাল"
+      ],
+      "address": "কলেজপাড়া ঠাকুরগাঁও",
+      "district": "Thakurgaon",
+      "phone": "01713149362",
+      "emergencyAvailable": true,
+      "status": "active"
+    },
+    {
+      "id": "H011",
+      "name": "সাস্থসেবা হাসপাতাল",
+      "type": "Hospital",
+      "services": [
+        "হাসপাতাল"
+      ],
+      "address": "কলেজপাড়া ঠাকুরগাঁও",
+      "district": "Thakurgaon",
+      "phone": "01819825720",
+      "emergencyAvailable": true,
+      "status": "active"
+    },
+    {
+      "id": "H012",
+      "name": "ঠাকুরগাঁও কমিউনিটি হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার",
+      "type": "Hospital",
+      "services": [
+        "হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার"
+      ],
+      "address": "আমতলী চৌরাস্তা.ঠাকুরগাঁও সুপার মার্কেট(৩য় তলা) বঙ্গবন্ধু সড়ক, ঠাকুরগাঁও",
+      "district": "Thakurgaon",
+      "phone": "01733013710",
+      "emergencyAvailable": true,
+      "status": "active"
+    },
+    {
+      "id": "H013",
+      "name": "আমাদের হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার",
+      "type": "Hospital",
+      "services": [],
+      "address": "আমাদের হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার ঠাকুরগাঁও",
+      "district": "Thakurgaon",
+      "phone": "01717448123",
+      "emergencyAvailable": true,
+      "status": "active"
+    },
+    {
+      "id": "H014",
+      "name": "সুপ্রিয় হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার",
+      "type": "Hospital",
+      "services": [
+        "হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার"
+      ],
+      "address": "সরকার পাড়া- ঠাকুরগাঁও",
+      "district": "Thakurgaon",
+      "phone": "01311886021",
+      "emergencyAvailable": true,
+      "status": "active"
     }
   ],
   "clinics": [
@@ -252,6 +329,33 @@
       "address": "বঙ্গবন্ধু সড়ক (সার্কিট হাউজের পশ্চিম পার্শ্বে",
       "district": "Thakurgaon",
       "phone": "01722415651",
+      "emergencyAvailable": false,
+      "openingHours": "8:00 AM - 12:00 PM",
+      "status": "active"
+    },
+    {
+      "id": "C002",
+      "name": "হোম কেয়ার ক্লিনিক এবং ডায়াগনস্টিক সেন্টার",
+      "type": "Clinic",
+      "services": [
+        "ক্লিনিক এবং ডায়াগনস্টিক সেন্টার"
+      ],
+      "address": "হ্যাডসের মোড়, সদর হাসপাতালের পিছনে, সরকারপাড়া, ঠাকুরগাঁও",
+      "district": "Thakurgaon",
+      "phone": "01329645252",
+      "emergencyAvailable": true,
+      "status": "active"
+    },
+    {
+      "id": "C003",
+      "name": "একতা নার্সিং হোম",
+      "type": "Clinic",
+      "services": [
+        "নার্সিং হোম"
+      ],
+      "address": "সরকারপাড়া- ঠাকুরগাঁও",
+      "district": "Thakurgaon",
+      "phone": "01716195552",
       "emergencyAvailable": false,
       "openingHours": "8:00 AM - 12:00 PM",
       "status": "active"
@@ -655,6 +759,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 39,
+  "version": 40,
   "lastUpdated": "2026-08-26"
 }
