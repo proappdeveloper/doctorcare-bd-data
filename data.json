@@ -1,6 +1,5 @@
 {
-  "version": 7,
-  "lastUpdated": "2026-08-17",
+  "districts": [],
   "doctors": [
     {
       "id": "D001",
@@ -19,48 +18,6 @@
       "visitingTime": "5:00 PM - 9:00 PM",
       "image": "doctors/doctor_001.jpg",
       "about": "Dr. Arif Hossain is an internal medicine consultant with over twelve years of experience in managing diabetes, hypertension and common adult illnesses.",
-      "appointmentAvailable": true,
-      "status": "active",
-      "category": "allopathy"
-    },
-    {
-      "id": "D002",
-      "name": "Dr. Sabina Yasmin",
-      "degree": "MBBS, MD (Cardiology)",
-      "qualification": "MBBS, MD (Cardiology)",
-      "specialty": "Cardiology Specialist",
-      "gender": "Female",
-      "experience": "15 years",
-      "hospital": "Chattogram City Hospital",
-      "chamber": "Chattogram City Hospital, Agrabad",
-      "district": "Chattogram",
-      "address": "45 Agrabad C/A, Chattogram",
-      "phone": "01711000002",
-      "visitingDays": "Sunday - Thursday",
-      "visitingTime": "6:00 PM - 9:00 PM",
-      "image": "doctors/doctor_002.jpg",
-      "about": "Dr. Sabina Yasmin specializes in heart disease, hypertension and preventive cardiology, and has treated patients at leading cardiac centers.",
-      "appointmentAvailable": true,
-      "status": "active",
-      "category": "allopathy"
-    },
-    {
-      "id": "D003",
-      "name": "Dr. Rezaul Karim",
-      "degree": "MBBS, DCH",
-      "qualification": "MBBS, DCH",
-      "specialty": "Child Specialist",
-      "gender": "Male",
-      "experience": "8 years",
-      "hospital": "Dhaka Children Care Clinic",
-      "chamber": "Dhaka Children Care Clinic, Uttara",
-      "district": "Dhaka",
-      "address": "Plot 7, Sector 4, Uttara, Dhaka",
-      "phone": "01711000003",
-      "visitingDays": "Saturday - Thursday",
-      "visitingTime": "4:00 PM - 8:00 PM",
-      "image": "doctors/doctor_003.jpg",
-      "about": "Dr. Rezaul Karim is a pediatric consultant focused on newborn care, child nutrition and vaccination schedules.",
       "appointmentAvailable": true,
       "status": "active",
       "category": "allopathy"
@@ -124,27 +81,6 @@
       "visitingTime": "11:00 AM - 3:00 PM",
       "image": "doctors/doctor_006.jpg",
       "about": "Dr. Tanjila Akter treats skin, hair and nail conditions including eczema, acne and allergic rashes.",
-      "appointmentAvailable": true,
-      "status": "active",
-      "category": "allopathy"
-    },
-    {
-      "id": "D007",
-      "name": "Dr. Kamrul Islam",
-      "degree": "MBBS, DLO",
-      "qualification": "MBBS, DLO",
-      "specialty": "ENT Specialist",
-      "gender": "Male",
-      "experience": "9 years",
-      "hospital": "Barishal ENT & Dental Clinic",
-      "chamber": "Barishal ENT & Dental Clinic, Sadar Road",
-      "district": "Barishal",
-      "address": "34 Sadar Road, Barishal",
-      "phone": "01711000007",
-      "visitingDays": "Saturday - Thursday",
-      "visitingTime": "5:00 PM - 8:30 PM",
-      "image": "doctors/doctor_007.jpg",
-      "about": "Dr. Kamrul Islam is an ENT consultant managing ear infections, sinus problems, tonsillitis and hearing concerns.",
       "appointmentAvailable": true,
       "status": "active",
       "category": "allopathy"
@@ -1038,5 +974,7 @@
       "description": "General and laparoscopic surgery",
       "icon": "surgery"
     }
-  ]
+  ],
+  "version": 7,
+  "lastUpdated": "2026-08-17"
 }
