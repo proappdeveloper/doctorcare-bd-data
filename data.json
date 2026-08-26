@@ -107,9 +107,40 @@
       "emergencyAvailable": false,
       "openingHours": "7:00 AM - 12:00 PM",
       "status": "active"
+    },
+    {
+      "id": "H005",
+      "name": "মাম হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার",
+      "type": "Hospital",
+      "about": "মাম হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার\nবঙ্গবন্ধু সড়ক (ফায়ার সার্ভিসের বিপরীতে)",
+      "services": [
+        "হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার"
+      ],
+      "address": "বঙ্গবন্ধু সড়ক (ফায়ার সার্ভিসের বিপরীতে)",
+      "district": "Thakurgaon",
+      "phone": "01716408889",
+      "emergencyAvailable": false,
+      "openingHours": "8:00 AM - 12:00 PM",
+      "status": "active"
     }
   ],
-  "clinics": [],
+  "clinics": [
+    {
+      "id": "C001",
+      "name": "দেশ এক্স-রে ক্লিনিক এন্ড প্যাথলজি",
+      "type": "Clinic",
+      "about": "দেশ এক্স-রে ক্লিনিক এন্ড প্যাথলজি\nবঙ্গবন্ধু সড়ক (সার্কিট হাউজের পশ্চিম পার্শ্বে",
+      "services": [
+        "Blood Tests,Imaging,Health Packages,Home Sample Collection"
+      ],
+      "address": "বঙ্গবন্ধু সড়ক (সার্কিট হাউজের পশ্চিম পার্শ্বে",
+      "district": "Thakurgaon",
+      "phone": "01722415651",
+      "emergencyAvailable": false,
+      "openingHours": "8:00 AM - 12:00 PM",
+      "status": "active"
+    }
+  ],
   "ambulances": [
     {
       "id": "A001",
@@ -175,6 +206,22 @@
         "Blood Tests,Imaging,Health Packages,Home Sample Collection"
       ],
       "about": "কমফোর্ট ডায়াগনষ্টিক সেন্টার\nক্লিনিক লেন উত্তর হাজীপাড়া (ফায়ার ব্রিগেডের বিপরীতে ঠাকুরগাঁও",
+      "status": "active"
+    },
+    {
+      "id": "DC003",
+      "name": "বলাকা ডায়াগনষ্টিক সেন্টার",
+      "type": "Diagnostic Center",
+      "address": "ক্লিনিক লেন উত্তর হাজীপাড়া (ফায়ার ব্রিগেডের বিপরীতে- ঠাকুরগাঁও)",
+      "district": "Thakurgaon",
+      "phone": "01716408889",
+      "openingHours": "8:00 AM - 12:00 PM",
+      "services": [
+        "Blood Tests,Imaging,Health Packages,Home Sample Collection"
+      ],
+      "availableTests": [
+        "Blood Tests,Imaging,Health Packages,Home Sample Collection"
+      ],
       "status": "active"
     }
   ],
@@ -394,6 +441,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 23,
+  "version": 24,
   "lastUpdated": "2026-08-26"
 }
