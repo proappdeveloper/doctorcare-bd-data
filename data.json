@@ -60,7 +60,7 @@
       "address": "বঙ্গবন্ধু সড়ক, মরিয়ম মেনসন(গনপূর্ত বিভাগের বিপরীতে)",
       "district": "Thakurgaon",
       "phone": "01869061360",
-      "emergencyAvailable": false,
+      "emergencyAvailable": true,
       "openingHours": "08 am to 12pm",
       "status": "active"
     },
@@ -74,7 +74,22 @@
       "address": "ডাঃ মান্নান টাওয়ার (সদর হাসপাতালের পশ্চিম পার্শ্বে )",
       "district": "Thakurgaon",
       "phone": "01713671227",
-      "emergencyAvailable": false,
+      "emergencyAvailable": true,
+      "openingHours": "08 am to 12pm",
+      "status": "active"
+    },
+    {
+      "id": "H003",
+      "name": "হাসান এক্স-রে ক্লিনিক এন্ড প্যাথলজি",
+      "type": "ক্লিনিক এন্ড প্যাথলজি",
+      "about": "ক্লিনিক লেন উত্তর হাজীপাড়া (ফায়ার ব্রিগেডের বিপরীতে- ঠাকুরগাঁও)",
+      "services": [
+        "ক্লিনিক এন্ড প্যাথলজি"
+      ],
+      "address": "ক্লিনিক লেন উত্তর হাজীপাড়া (ফায়ার ব্রিগেডের বিপরীতে- ঠাকুরগাঁও)",
+      "district": "Thakurgaon",
+      "phone": "01789672643",
+      "emergencyAvailable": true,
       "openingHours": "08 am to 12pm",
       "status": "active"
     }
@@ -354,6 +369,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 14,
+  "version": 15,
   "lastUpdated": "2026-08-26"
 }
