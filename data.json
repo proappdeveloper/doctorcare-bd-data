@@ -133,34 +133,491 @@
       "status": "active"
     }
   ],
-  "doctors": [
+  "doctors": [],
+  "hospitals": [
     {
-      "id": "D001",
-      "name": "Dr. Arif Hossain",
-      "degree": "MBBS, FCPS (Medicine)",
-      "qualification": "MBBS, FCPS (Medicine)",
-      "specialty": "Medicine Specialist",
-      "gender": "Male",
-      "experience": "12 years",
-      "hospital": "Greenlife General Hospital",
-      "chamber": "Greenlife General Hospital, Dhanmondi",
-      "district": "Dhaka",
+      "id": "H001",
+      "name": "Greenlife General Hospital",
+      "type": "Hospital",
+      "about": "A general hospital in Dhanmondi offering inpatient and outpatient care with a 24/7 emergency unit.",
+      "services": [
+        "24/7 Emergency",
+        "General Medicine",
+        "Surgery",
+        "ICU",
+        "Diagnostic Lab"
+      ],
       "address": "House 12, Road 5, Dhanmondi, Dhaka",
-      "phone": "01711000001",
-      "visitingDays": "Saturday - Thursday",
-      "visitingTime": "5:00 PM - 9:00 PM",
-      "image": "doctors/doctor_001.jpg",
-      "about": "Dr. Arif Hossain is an internal medicine consultant with over twelve years of experience in managing diabetes, hypertension and common adult illnesses.",
-      "appointmentAvailable": true,
-      "status": "active",
-      "category": "allopathy"
+      "district": "Dhaka",
+      "phone": "01712000001",
+      "emergencyAvailable": true,
+      "openingHours": "Open 24 hours",
+      "doctorIds": [
+        "D001"
+      ],
+      "image": "hospitals/hospital_001.jpg",
+      "status": "active"
+    },
+    {
+      "id": "H002",
+      "name": "Chattogram City Hospital",
+      "type": "Hospital",
+      "about": "A multi-specialty hospital in Agrabad with cardiac care, maternity services and a round-the-clock emergency department.",
+      "services": [
+        "24/7 Emergency",
+        "Cardiology",
+        "Maternity",
+        "NICU",
+        "Pharmacy"
+      ],
+      "address": "45 Agrabad C/A, Chattogram",
+      "district": "Chattogram",
+      "phone": "01712000002",
+      "emergencyAvailable": true,
+      "openingHours": "Open 24 hours",
+      "doctorIds": [
+        "D002"
+      ],
+      "image": "hospitals/hospital_002.jpg",
+      "status": "active"
+    },
+    {
+      "id": "H003",
+      "name": "Khulna Mother Care Hospital",
+      "type": "Hospital",
+      "about": "A women and children focused hospital providing maternity care, pediatric services and emergency support.",
+      "services": [
+        "Maternity",
+        "Pediatrics",
+        "Emergency",
+        "Ultrasound",
+        "Operation Theater"
+      ],
+      "address": "20 Sonadanga Main Road, Khulna",
+      "district": "Khulna",
+      "phone": "01712000003",
+      "emergencyAvailable": true,
+      "openingHours": "Open 24 hours",
+      "doctorIds": [
+        "D004"
+      ],
+      "image": "hospitals/hospital_003.jpg",
+      "status": "active"
+    },
+    {
+      "id": "H004",
+      "name": "Rajshahi Medical & General Hospital",
+      "type": "Hospital",
+      "about": "A general hospital in Rajshahi city with orthopedics, medicine and surgical departments.",
+      "services": [
+        "Emergency",
+        "Orthopedics",
+        "Medicine",
+        "Surgery",
+        "Ambulance"
+      ],
+      "address": "88 Shaheb Bazar Road, Rajshahi",
+      "district": "Rajshahi",
+      "phone": "01712000004",
+      "emergencyAvailable": true,
+      "openingHours": "Open 24 hours",
+      "doctorIds": [
+        "D005"
+      ],
+      "image": "hospitals/hospital_004.jpg",
+      "status": "active"
+    },
+    {
+      "id": "H005",
+      "name": "Sylhet Central Hospital",
+      "type": "Hospital",
+      "about": "A central hospital serving greater Sylhet with outpatient clinics, diagnostics and emergency care.",
+      "services": [
+        "24/7 Emergency",
+        "Medicine",
+        "Dermatology",
+        "Diagnostic Lab",
+        "Pharmacy"
+      ],
+      "address": "15 Zindabazar Point, Sylhet",
+      "district": "Sylhet",
+      "phone": "01712000005",
+      "emergencyAvailable": true,
+      "openingHours": "Open 24 hours",
+      "doctorIds": [
+        "D006"
+      ],
+      "image": "hospitals/hospital_005.jpg",
+      "status": "active"
     }
   ],
-  "hospitals": [],
-  "clinics": [],
-  "ambulances": [],
-  "pharmacies": [],
-  "diagnosticCenters": [],
+  "clinics": [
+    {
+      "id": "C001",
+      "name": "Dhaka Children Care Clinic",
+      "type": "Clinic",
+      "about": "A pediatric outpatient clinic in Uttara offering child checkups, vaccination and nutrition counseling.",
+      "services": [
+        "Pediatrics",
+        "Vaccination",
+        "Nutrition Counseling",
+        "Child Development"
+      ],
+      "address": "Plot 7, Sector 4, Uttara, Dhaka",
+      "district": "Dhaka",
+      "phone": "01713000001",
+      "emergencyAvailable": false,
+      "openingHours": "Sat - Thu: 4:00 PM - 9:00 PM",
+      "doctorIds": [
+        "D003"
+      ],
+      "image": "clinics/clinic_001.jpg",
+      "status": "active"
+    },
+    {
+      "id": "C002",
+      "name": "Sylhet Skin Care Clinic",
+      "type": "Clinic",
+      "about": "A dermatology outpatient clinic treating skin, hair and nail conditions.",
+      "services": [
+        "Dermatology",
+        "Allergy Testing",
+        "Skin Treatment"
+      ],
+      "address": "15 Zindabazar Point, Sylhet",
+      "district": "Sylhet",
+      "phone": "01713000002",
+      "emergencyAvailable": false,
+      "openingHours": "Fri - Wed: 11:00 AM - 3:00 PM",
+      "doctorIds": [
+        "D006"
+      ],
+      "image": "clinics/clinic_002.jpg",
+      "status": "active"
+    },
+    {
+      "id": "C003",
+      "name": "Barishal ENT & Dental Clinic",
+      "type": "Clinic",
+      "about": "A combined ENT and dental outpatient clinic in Barishal city.",
+      "services": [
+        "ENT",
+        "Dental Care",
+        "Root Canal",
+        "Cleaning"
+      ],
+      "address": "34 Sadar Road, Barishal",
+      "district": "Barishal",
+      "phone": "01713000003",
+      "emergencyAvailable": false,
+      "openingHours": "Sat - Thu: 5:00 PM - 8:30 PM",
+      "doctorIds": [
+        "D007"
+      ],
+      "image": "clinics/clinic_003.jpg",
+      "status": "active"
+    },
+    {
+      "id": "C004",
+      "name": "Rangpur Family Clinic",
+      "type": "Clinic",
+      "about": "A family medicine outpatient clinic with dental, homeopathy and general checkup services.",
+      "services": [
+        "Family Medicine",
+        "Dental",
+        "Homeopathy",
+        "Health Checkup"
+      ],
+      "address": "12 Station Road, Rangpur",
+      "district": "Rangpur",
+      "phone": "01713000004",
+      "emergencyAvailable": false,
+      "openingHours": "Sat - Thu: 9:00 AM - 1:00 PM, 5:00 PM - 9:00 PM",
+      "doctorIds": [
+        "D008",
+        "D012"
+      ],
+      "image": "clinics/clinic_004.jpg",
+      "status": "active"
+    },
+    {
+      "id": "C005",
+      "name": "Cumilla Wellcare Clinic",
+      "type": "Clinic",
+      "about": "A modern outpatient clinic in Cumilla with general medicine, surgery consultation and lab sample collection.",
+      "services": [
+        "General Medicine",
+        "Surgery Consultation",
+        "Lab Sample Collection",
+        "Pharmacy"
+      ],
+      "address": "40 Kandirpar Road, Cumilla",
+      "district": "Cumilla",
+      "phone": "01713000005",
+      "emergencyAvailable": false,
+      "openingHours": "Sat - Thu: 9:00 AM - 9:00 PM",
+      "doctorIds": [
+        "D010"
+      ],
+      "image": "clinics/clinic_005.jpg",
+      "status": "active"
+    }
+  ],
+  "ambulances": [
+    {
+      "id": "A001",
+      "provider": "City Ambulance Service",
+      "phone": "01714000001",
+      "serviceArea": "Dhaka (all areas)",
+      "availability": "24/7",
+      "description": "Modern ambulances with trained attendants serving all of Dhaka city and nearby areas.",
+      "image": "ambulances/ambulance_001.jpg",
+      "status": "active"
+    },
+    {
+      "id": "A002",
+      "provider": "Chattogram Rescue Ambulance",
+      "phone": "01714000002",
+      "serviceArea": "Chattogram city",
+      "availability": "24/7",
+      "description": "Emergency and non-emergency ambulance service with oxygen support available on request.",
+      "image": "ambulances/ambulance_002.jpg",
+      "status": "active"
+    },
+    {
+      "id": "A003",
+      "provider": "Khulna Life Ambulance",
+      "phone": "01714000003",
+      "serviceArea": "Khulna & nearby upazilas",
+      "availability": "24/7",
+      "description": "Fast ambulance response across Khulna city and surrounding upazilas.",
+      "image": "ambulances/ambulance_003.jpg",
+      "status": "active"
+    },
+    {
+      "id": "A004",
+      "provider": "Rajshahi Quick Ambulance",
+      "phone": "01714000004",
+      "serviceArea": "Rajshahi city",
+      "availability": "6:00 AM - 11:00 PM",
+      "description": "Reliable ambulance service for hospital transfers and patient transport in Rajshahi.",
+      "image": "ambulances/ambulance_004.jpg",
+      "status": "active"
+    },
+    {
+      "id": "A005",
+      "provider": "Sylhet Care Ambulance",
+      "phone": "01714000005",
+      "serviceArea": "Sylhet city & airport",
+      "availability": "24/7",
+      "description": "Ambulance service covering Sylhet city, airport transfers and inter-city patient transport.",
+      "image": "ambulances/ambulance_005.jpg",
+      "status": "active"
+    }
+  ],
+  "pharmacies": [
+    {
+      "id": "P001",
+      "name": "Green Pharmacy",
+      "address": "House 12, Road 5, Dhanmondi, Dhaka",
+      "district": "Dhaka",
+      "phone": "01715000001",
+      "openingHours": "Open 24 hours",
+      "services": [
+        "Medicine Sales",
+        "Baby Care",
+        "First Aid Supplies",
+        "Home Delivery"
+      ],
+      "about": "A full-service pharmacy in Dhanmondi with a wide range of medicines and home delivery within the area.",
+      "image": "pharmacies/pharmacy_001.jpg",
+      "status": "active"
+    },
+    {
+      "id": "P002",
+      "name": "City Care Pharmacy",
+      "address": "45 Agrabad C/A, Chattogram",
+      "district": "Chattogram",
+      "phone": "01715000999",
+      "openingHours": "8:00 AM - 11:00 PM",
+      "services": [
+        "Medicine Sales",
+        "Diabetes Supplies",
+        "Health Checkup Kits"
+      ],
+      "about": "A well-stocked pharmacy in Agrabad offering prescription medicines and health monitoring supplies.",
+      "image": "pharmacies/pharmacy_002.jpg",
+      "status": "active"
+    },
+    {
+      "id": "P003",
+      "name": "Wellness Pharmacy",
+      "address": "20 Sonadanga Main Road, Khulna",
+      "district": "Khulna",
+      "phone": "01715000003",
+      "openingHours": "9:00 AM - 10:00 PM",
+      "services": [
+        "Medicine Sales",
+        "Vitamins & Supplements",
+        "Home Delivery"
+      ],
+      "about": "A neighborhood pharmacy in Sonadanga with vitamins, supplements and everyday medicines.",
+      "image": "pharmacies/pharmacy_003.jpg",
+      "status": "active"
+    },
+    {
+      "id": "P004",
+      "name": "Rajshahi Medical Hall",
+      "address": "88 Shaheb Bazar Road, Rajshahi",
+      "district": "Rajshahi",
+      "phone": "01715000004",
+      "openingHours": "8:30 AM - 10:30 PM",
+      "services": [
+        "Medicine Sales",
+        "Compounding",
+        "Surgical Supplies"
+      ],
+      "about": "A long-standing pharmacy at Shaheb Bazar offering medicines and surgical supplies.",
+      "image": "pharmacies/pharmacy_004.jpg",
+      "status": "active"
+    },
+    {
+      "id": "P005",
+      "name": "Sylhet Health Pharmacy",
+      "address": "15 Zindabazar Point, Sylhet",
+      "district": "Sylhet",
+      "phone": "01715000005",
+      "openingHours": "8:00 AM - 11:00 PM",
+      "services": [
+        "Medicine Sales",
+        "Baby Care",
+        "Home Delivery"
+      ],
+      "about": "A conveniently located pharmacy near Zindabazar with delivery service across the city.",
+      "image": "pharmacies/pharmacy_005.jpg",
+      "status": "active"
+    }
+  ],
+  "diagnosticCenters": [
+    {
+      "id": "DC001",
+      "name": "MedLab Diagnostic",
+      "address": "House 5, Road 11, Banani, Dhaka",
+      "district": "Dhaka",
+      "phone": "01716000001",
+      "openingHours": "7:00 AM - 10:00 PM",
+      "services": [
+        "Blood Tests",
+        "Imaging",
+        "Health Packages",
+        "Home Sample Collection"
+      ],
+      "availableTests": [
+        "CBC",
+        "Blood Sugar",
+        "Lipid Profile",
+        "Ultrasound",
+        "X-Ray",
+        "ECG"
+      ],
+      "about": "A modern diagnostic center in Banani offering pathology and imaging with home sample collection.",
+      "image": "diagnostics/diagnostic_001.jpg",
+      "status": "active"
+    },
+    {
+      "id": "DC002",
+      "name": "Chattogram Scan & Lab",
+      "address": "30 CDA Avenue, Chattogram",
+      "district": "Chattogram",
+      "phone": "01716000002",
+      "openingHours": "7:00 AM - 9:00 PM",
+      "services": [
+        "Pathology",
+        "Digital X-Ray",
+        "Ultrasound",
+        "Health Packages"
+      ],
+      "availableTests": [
+        "CBC",
+        "Thyroid Profile",
+        "Ultrasound",
+        "X-Ray",
+        "Urine Test"
+      ],
+      "about": "A well-equipped pathology and imaging lab on CDA Avenue with same-day reports.",
+      "image": "diagnostics/diagnostic_002.jpg",
+      "status": "active"
+    },
+    {
+      "id": "DC003",
+      "name": "Khulna Path Lab",
+      "address": "5 KDA Road, Khulna",
+      "district": "Khulna",
+      "phone": "01716000003",
+      "openingHours": "7:30 AM - 9:00 PM",
+      "services": [
+        "Pathology",
+        "ECG",
+        "Health Packages"
+      ],
+      "availableTests": [
+        "CBC",
+        "Blood Sugar",
+        "Cholesterol",
+        "ECG"
+      ],
+      "about": "A trusted neighborhood path lab in Khulna known for quick and accurate routine tests.",
+      "image": "diagnostics/diagnostic_003.jpg",
+      "status": "active"
+    },
+    {
+      "id": "DC004",
+      "name": "Rajshahi Diagnostic Center",
+      "address": "60 Shaheb Bazar Road, Rajshahi",
+      "district": "Rajshahi",
+      "phone": "01716000004",
+      "openingHours": "7:00 AM - 10:00 PM",
+      "services": [
+        "Pathology",
+        "Ultrasound",
+        "X-Ray",
+        "Home Collection"
+      ],
+      "availableTests": [
+        "CBC",
+        "Liver Function",
+        "Kidney Function",
+        "Ultrasound",
+        "X-Ray"
+      ],
+      "about": "Full-service diagnostic center with pathology, ultrasound and X-ray facilities.",
+      "image": "diagnostics/diagnostic_004.jpg",
+      "status": "active"
+    },
+    {
+      "id": "DC005",
+      "name": "Sylhet Lab Care",
+      "address": "18 Zindabazar Point, Sylhet",
+      "district": "Sylhet",
+      "phone": "01716000005",
+      "openingHours": "7:00 AM - 10:00 PM",
+      "services": [
+        "Pathology",
+        "Imaging",
+        "Health Packages"
+      ],
+      "availableTests": [
+        "CBC",
+        "Blood Sugar",
+        "Lipid Profile",
+        "Ultrasound",
+        "ECG"
+      ],
+      "about": "A modern diagnostic center near Zindabazar with a full range of routine tests.",
+      "image": "diagnostics/diagnostic_005.jpg",
+      "status": "active"
+    }
+  ],
   "healthTips": [
     {
       "id": "T001",
