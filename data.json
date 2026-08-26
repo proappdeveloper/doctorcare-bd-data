@@ -48,7 +48,35 @@
       "category": "allopathy"
     }
   ],
-  "hospitals": [],
+  "hospitals": [
+    {
+      "id": "H001",
+      "name": "রেইনবো হাসপাতাল ও ডায়াগনষ্টিক সেন্টার",
+      "type": "হাসপাতাল ও ডায়াগনষ্টিক",
+      "about": "বঙ্গবন্ধু সড়ক, মরিয়ম মেনসন(গনপূর্ত বিভাগের বিপরীতে)",
+      "services": [
+        "হাসপাতাল ও ডায়াগনষ্টিক সেন্টার"
+      ],
+      "address": "বঙ্গবন্ধু সড়ক, মরিয়ম মেনসন(গনপূর্ত বিভাগের বিপরীতে)",
+      "district": "Thakurgaon",
+      "phone": "01869061360",
+      "emergencyAvailable": false,
+      "status": "active"
+    },
+    {
+      "id": "H002",
+      "name": "সেবা ডায়াগনষ্টিক সেন্টার ও হাসপাতাল",
+      "type": "ডায়াগনষ্টিক সেন্টার ও হাসপাতাল",
+      "services": [
+        "ডায়াগনষ্টিক সেন্টার ও হাসপাতাল"
+      ],
+      "address": "ডাঃ মান্নান টাওয়ার (সদর হাসপাতালের পশ্চিম পার্শ্বে )",
+      "district": "Thakurgaon",
+      "phone": "01713671227",
+      "emergencyAvailable": false,
+      "status": "active"
+    }
+  ],
   "clinics": [],
   "ambulances": [
     {
@@ -324,6 +352,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 10,
+  "version": 11,
   "lastUpdated": "2026-08-26"
 }
