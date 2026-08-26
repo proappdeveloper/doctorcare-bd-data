@@ -122,6 +122,36 @@
       "emergencyAvailable": false,
       "openingHours": "8:00 AM - 12:00 PM",
       "status": "active"
+    },
+    {
+      "id": "H006",
+      "name": "ফ্রেন্ডস এপোলো হাসপাতাল",
+      "type": "Hospital",
+      "about": "ফ্রেন্ডস এপোলো হাসপাতাল\nবঙ্গবন্ধু সড়ক (ফায়ার সার্ভিসের বিপরীতে)",
+      "services": [
+        "হাসপাতাল"
+      ],
+      "address": "বঙ্গবন্ধু সড়ক (ফায়ার সার্ভিসের বিপরীতে)",
+      "district": "Thakurgaon",
+      "phone": "01735563963",
+      "emergencyAvailable": false,
+      "openingHours": "8:00 AM - 12:00 PM",
+      "status": "active"
+    },
+    {
+      "id": "H007",
+      "name": "নিউ পপুলার হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার ঠাকুরগাঁও",
+      "type": "Hospital",
+      "about": "আজিম প্লাজা, বঙ্গবন্ধু সড়ক, ঠাকুরগাঁও",
+      "services": [
+        "হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার"
+      ],
+      "address": "আজিম প্লাজা, বঙ্গবন্ধু সড়ক, ঠাকুরগাঁও",
+      "district": "Thakurgaon",
+      "phone": "01778-433604",
+      "emergencyAvailable": false,
+      "openingHours": "8:00 AM - 12:00 PM",
+      "status": "active"
     }
   ],
   "clinics": [
@@ -441,6 +471,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 25,
+  "version": 26,
   "lastUpdated": "2026-08-26"
 }
