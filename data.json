@@ -92,6 +92,21 @@
       "emergencyAvailable": false,
       "openingHours": "7:00 AM - 12:00 PM",
       "status": "active"
+    },
+    {
+      "id": "H004",
+      "name": "নিরাপদ হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার",
+      "type": "হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার",
+      "about": "বঙ্গবন্ধু সড়ক (সদর হাসপাতালের বিপরীতে",
+      "services": [
+        "হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার"
+      ],
+      "address": "বঙ্গবন্ধু সড়ক (সদর হাসপাতালের বিপরীতে",
+      "district": "Thakurgaon",
+      "phone": "01744189986",
+      "emergencyAvailable": false,
+      "openingHours": "7:00 AM - 12:00 PM",
+      "status": "active"
     }
   ],
   "clinics": [],
@@ -361,6 +376,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 17,
+  "version": 18,
   "lastUpdated": "2026-08-26"
 }
