@@ -131,7 +131,7 @@
       "address": "বঙ্গবন্ধু সড়ক, মরিয়ম মেনসন(গনপূর্ত বিভাগের বিপরীতে)",
       "district": "Thakurgaon",
       "phone": "01869061360",
-      "emergencyAvailable": false,
+      "emergencyAvailable": true,
       "openingHours": "7:00 AM - 12:00 PM",
       "status": "active"
     },
@@ -145,7 +145,7 @@
       "address": "ডাঃ মান্নান টাওয়ার (সদর হাসপাতালের পশ্চিম পার্শ্বে )",
       "district": "Thakurgaon",
       "phone": "01713671227",
-      "emergencyAvailable": false,
+      "emergencyAvailable": true,
       "openingHours": "7:00 AM - 12:00 PM",
       "status": "active"
     },
@@ -160,7 +160,7 @@
       "address": "ক্লিনিক লেন উত্তর হাজীপাড়া (ফায়ার ব্রিগেডের বিপরীতে- ঠাকুরগাঁও)",
       "district": "Thakurgaon",
       "phone": "01789672643",
-      "emergencyAvailable": false,
+      "emergencyAvailable": true,
       "openingHours": "7:00 AM - 12:00 PM",
       "status": "active"
     },
@@ -175,7 +175,7 @@
       "address": "বঙ্গবন্ধু সড়ক (সদর হাসপাতালের বিপরীতে",
       "district": "Thakurgaon",
       "phone": "01744189986",
-      "emergencyAvailable": false,
+      "emergencyAvailable": true,
       "openingHours": "7:00 AM - 12:00 PM",
       "status": "active"
     },
@@ -190,7 +190,7 @@
       "address": "বঙ্গবন্ধু সড়ক (ফায়ার সার্ভিসের বিপরীতে)",
       "district": "Thakurgaon",
       "phone": "01716408889",
-      "emergencyAvailable": false,
+      "emergencyAvailable": true,
       "openingHours": "8:00 AM - 12:00 PM",
       "status": "active"
     },
@@ -205,7 +205,7 @@
       "address": "বঙ্গবন্ধু সড়ক (ফায়ার সার্ভিসের বিপরীতে)",
       "district": "Thakurgaon",
       "phone": "01735563963",
-      "emergencyAvailable": false,
+      "emergencyAvailable": true,
       "openingHours": "8:00 AM - 12:00 PM",
       "status": "active"
     },
@@ -220,6 +220,21 @@
       "address": "আজিম প্লাজা, বঙ্গবন্ধু সড়ক, ঠাকুরগাঁও",
       "district": "Thakurgaon",
       "phone": "01778-433604",
+      "emergencyAvailable": true,
+      "openingHours": "8:00 AM - 12:00 PM",
+      "status": "active"
+    },
+    {
+      "id": "H008",
+      "name": "ফেয়ার হাসপাতাল  - ঠাকুরগাঁও)",
+      "type": "Hospital",
+      "about": "ফেয়ার হাসপাতাল  \nবঙ্গবন্ধু সড়ক সরকারপাড়া - ঠাকুরগাঁও)",
+      "services": [
+        "হাসপাতাল"
+      ],
+      "address": "বঙ্গবন্ধু সড়ক সরকারপাড়া - ঠাকুরগাঁও)",
+      "district": "Thakurgaon",
+      "phone": "01721009633",
       "emergencyAvailable": false,
       "openingHours": "8:00 AM - 12:00 PM",
       "status": "active"
@@ -640,6 +655,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 38,
+  "version": 39,
   "lastUpdated": "2026-08-26"
 }
