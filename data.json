@@ -324,6 +324,89 @@
         "Blood Tests,Imaging,Health Packages,Home Sample Collection"
       ],
       "status": "active"
+    },
+    {
+      "id": "DC004",
+      "name": "সুরক্ষা ডায়াগনষ্টিক সেন্টার",
+      "type": "Diagnostic Center",
+      "address": "বঙ্গবন্ধু সড়ক (গনপূর্ত বিভাগের বিপরীতে)",
+      "district": "Thakurgaon",
+      "phone": "01739519970",
+      "openingHours": "8:00 AM - 12:00 PM",
+      "services": [
+        "Blood Tests,Imaging,Health Packages,Home Sample Collection"
+      ],
+      "availableTests": [
+        "Blood Tests,Imaging,Health Packages,Home Sample Collection"
+      ],
+      "about": "সুরক্ষা ডায়াগনষ্টিক সেন্টার\nবঙ্গবন্ধু সড়ক (গনপূর্ত বিভাগের বিপরীতে)\nমোবাইল নং 01739519970",
+      "status": "active"
+    },
+    {
+      "id": "DC005",
+      "name": "বন্ধন ডায়াগনষ্টিক সেন্টার",
+      "type": "Diagnostic Center",
+      "address": "বঙ্গবন্ধু সড়ক (সদর হাসপাতালের বিপরীত",
+      "district": "Thakurgaon",
+      "phone": "0173718040",
+      "openingHours": "8:00 AM - 12:00 PM",
+      "services": [
+        "ডায়াগনষ্টিক সেন্টার"
+      ],
+      "availableTests": [
+        "Blood Tests,Imaging,Health Packages,Home Sample Collection"
+      ],
+      "about": "বন্ধন ডায়াগনষ্টিক সেন্টার\nবঙ্গবন্ধু সড়ক (সদর হাসপাতালের বিপরীত",
+      "status": "active"
+    },
+    {
+      "id": "DC006",
+      "name": "ফেয়ার এক্স-রে এন্ড প্যাথলজি",
+      "type": "Diagnostic Center",
+      "address": "বঙ্গবন্ধু সড়ক সরকারপাড়া - ঠাকুরগাঁও)",
+      "district": "Thakurgaon",
+      "phone": "01329649164",
+      "openingHours": "8:00 AM - 12:00 PM",
+      "services": [
+        "ডায়াগনষ্টিক সেন্টার"
+      ],
+      "availableTests": [
+        "Blood Tests,Imaging,Health Packages,Home Sample Collection"
+      ],
+      "about": "ফেয়ার এক্স-রে এন্ড প্যাথলজি\nবঙ্গবন্ধু সড়ক সরকারপাড়া - ঠাকুরগাঁও)",
+      "status": "active"
+    },
+    {
+      "id": "DC007",
+      "name": "যমুনা ডায়াগনষ্টিক সেন্টার",
+      "type": "Diagnostic Center",
+      "address": "বঙ্গবন্ধু সড়ক (সদর হাসপাতালের বিপরীতে)",
+      "district": "Thakurgaon",
+      "phone": "01773980070",
+      "openingHours": "8:00 AM - 12:00 PM",
+      "services": [
+        "ডায়াগনষ্টিক সেন্টার"
+      ],
+      "availableTests": [
+        "Blood Tests,Imaging,Health Packages,Home Sample Collection"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "DC008",
+      "name": "ডক্টর প্যাথলজী",
+      "type": "Diagnostic Center",
+      "address": "ডক্টর প্যাথলজী ঠাকুরগাঁও",
+      "district": "Thakurgaon",
+      "phone": "01719042006",
+      "openingHours": "8:00 AM - 12:00 PM",
+      "services": [
+        "ডায়াগনষ্টিক সেন্টার"
+      ],
+      "availableTests": [
+        "Blood Tests,Imaging,Health Packages,Home Sample Collection"
+      ],
+      "status": "active"
     }
   ],
   "healthTips": [
@@ -542,6 +625,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 36,
+  "version": 37,
   "lastUpdated": "2026-08-26"
 }
