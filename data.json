@@ -1754,6 +1754,60 @@
       "visitingTime": "সকাল ১০টা থেকে সন্ধ্যা ০৮টা",
       "category": "allopathy",
       "status": "active"
+    },
+    {
+      "id": "D099",
+      "name": "ডাঃ মোঃ শাহজাহান নেওয়াজ",
+      "degree": "এমবিবিএস, বিসিএস স্বাস্থ্য, (শিশু)",
+      "qualification": "অবসরপ্রাপ্ত কনসালটেন্ট- আধুনকি সদর হাসপাতাল -ঠাকুরগাঁও শিশু, কিশোর ও নবজাতক রোগের চিকিৎসক",
+      "specialty": "Child Specialist",
+      "gender": "Male",
+      "experience": "শিশু, কিশোর ও নবজাতক রোগের চিকিৎসক",
+      "hospital": "চেম্বারঃ নিজ বাসার সাথে",
+      "district": "Thakurgaon",
+      "address": "চেম্বারঃ নিজ বাসার সাথে",
+      "phone": "01774101934",
+      "phone2": "01774101934",
+      "visitingDays": "প্রতিদিন",
+      "visitingTime": "সকাল ০৯ টা থেকে সন্ধা ০৭টা",
+      "category": "allopathy",
+      "status": "active"
+    },
+    {
+      "id": "D100",
+      "name": "ডাঃ মোঃ সাজ্জাদ হায়দার শাহীন",
+      "degree": "এমবিবিএস, বিসিএস স্বাস্থ্য, (শিশু)",
+      "qualification": "কনসালটেন্ট (শিশু)- আধুনকি সদর হাসপাতাল -ঠাকুরগাঁও এফসিপিএস (শিশু) এমসিপিএস (শিশু)",
+      "specialty": "Child Specialist",
+      "gender": "Male",
+      "experience": "কনসালটেন্ট (শিশু)",
+      "hospital": "মাম হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার",
+      "district": "Thakurgaon",
+      "address": "চেম্বারঃ মাম হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার-",
+      "phone": "01746309999",
+      "phone2": "01704215337",
+      "visitingDays": "প্রতিদিন",
+      "visitingTime": "বিকাল ০৪ টা থেকে রাত ০৮টা",
+      "category": "allopathy",
+      "status": "active"
+    },
+    {
+      "id": "D101",
+      "name": "ডাঃ মোঃ রুহুল আমিন",
+      "degree": "এমবিবিএস,এমপিএইচ,ডিসিএইচ (বিএসএমএমইউ)",
+      "qualification": "সহকারী অধ্যাপক (শিশু) (অবঃ) রংপুর মেডিকেল কলেজ রংপুর শিশু কিশোর রোগ বিশেষজ্ঞ",
+      "specialty": "Child Specialist",
+      "gender": "Male",
+      "experience": "শিশু কিশোর রোগ বিশেষজ্ঞ",
+      "hospital": "আলফা ডায়াগনস্টিক সেন্টার",
+      "district": "Thakurgaon",
+      "address": "চেম্বারঃ আলফা ডায়াগনস্টিক সেন্টার",
+      "phone": "01737088766",
+      "phone2": "01912207915",
+      "visitingDays": "প্রতিদিন",
+      "visitingTime": "বিকাল ৪ টা থেকে রাত ১০টা / বাসায় সরাসরি সিরিয়াল দিতে হয় সকাল ৭.০০ টা থেকে রোগী দেখে ১০ টা থেকে ১.০০ টা",
+      "category": "allopathy",
+      "status": "active"
     }
   ],
   "hospitals": [
@@ -2452,6 +2506,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 58,
+  "version": 59,
   "lastUpdated": "2026-08-27"
 }
