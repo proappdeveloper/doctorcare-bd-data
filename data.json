@@ -543,7 +543,8 @@
       "visitingDays": "প্রতিদিন বিকাল ০৩ টা হতে রাত ১০ টা, শুক্রবার সকাল ১০ টা হতে রাত ০৮.০০ টা",
       "visitingTime": "বিকাল ০৩ টা হতে রাত ১০ টা, শুক্রবার সকাল ১০ টা হতে রাত ০৮.০০ টা",
       "category": "allopathy",
-      "status": "active"
+      "status": "active",
+      "district": "Thakurgaon"
     },
     {
       "id": "D031",
@@ -1469,6 +1470,6 @@
       "icon": "surgery"
     }
   ],
-  "version": 52,
+  "version": 53,
   "lastUpdated": "2026-08-27"
 }
