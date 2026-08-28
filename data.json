@@ -2908,83 +2908,83 @@
   "specialties": [
     {
       "id": "S001",
-      "name": "Medicine",
-      "description": "Internal medicine and general adult care",
+      "name": "মেডিসিন ও ডায়বেটিকস ডাক্তার",
+      "description": "অভ্যন্তরীণ ওষুধ এবং সাধারণ প্রাপ্তবয়স্কদের যত্ন মেডিসিন ও ডায়াবেটিকস ডক্টর",
       "icon": "medicine"
     },
     {
       "id": "S002",
-      "name": "Cardiology",
-      "description": "Heart and blood vessel care",
+      "name": "ব্লাড প্রেসার ও হার্টের ডাক্তার",
+      "description": "হার্ট এবং রক্তনালীর যত্ন এবং ব্লাড প্রেসার ও হার্ট\nডাক্তার",
       "icon": "cardiology"
     },
     {
       "id": "S003",
-      "name": "Child Specialist",
-      "description": "Pediatric care for children",
+      "name": "নবজাতক ও শিশু ডাক্তার",
+      "description": "শিশু বিশেষজ্ঞ নবজাতক ও শিশু\nডক্টর, শিশুদের জন্য যত্ন",
       "icon": "child"
     },
     {
       "id": "S004",
-      "name": "Gynecology",
-      "description": "Women's health and maternity care",
+      "name": "গাইনি ও অবস ডাক্তার",
+      "description": "মহিলাদের স্বাস্থ্য এবং প্রসূতি যত্ন ,গাইনি ও অবস ডক্টর",
       "icon": "gynecology"
     },
     {
       "id": "S005",
-      "name": "Orthopedics",
-      "description": "Bone, joint and muscle care",
+      "name": "হাড়ভাঙ্গা,বাত, ব্যাথা ও অর্থোপেডিক ডাক্তার",
+      "description": "হাড়, জয়েন্ট এবং পেশীর যত্ন এবং হাড়ভাঙ্গা, বাত, ব্যাথাও\nঅর্থোপেডিক ডাক্তার",
       "icon": "orthopedics"
     },
     {
       "id": "S006",
-      "name": "Dermatology",
-      "description": "Skin, hair and nail care",
+      "name": "চর্মরোগ বিশেষজ্ঞ",
+      "description": "চর্মরোগ বিশেষজ্ঞ, ত্বক, চুল ও নখের যত্ন",
       "icon": "dermatology"
     },
     {
       "id": "S007",
-      "name": "ENT",
-      "description": "Ear, nose and throat care",
+      "name": "নাক, কান ও গলার ডাক্তার",
+      "description": "নাক, ​​কান ও গলার বিশেষজ্ঞ ডাক্তার",
       "icon": "ent"
     },
     {
       "id": "S008",
-      "name": "Dental Specialist",
-      "description": "Teeth and oral health care",
+      "name": "দাঁতের ডাক্তার - দন্ত বিশেষজ্ঞ",
+      "description": "দন্ত বিশেষজ্ঞ, দাঁত ও মুখের স্বাস্থ্য পরিচর্যা",
       "icon": "dental"
     },
     {
       "id": "S009",
-      "name": "Neurology",
-      "description": "Brain and nervous system care",
+      "name": "স্ট্রোক, মাথাব্যাথা ও ব্রেইনের ডাক্তার",
+      "description": "মস্তিষ্ক এবং স্নায়ুতন্ত্রের যত্ন, স্ট্রোক, মাথাব্যাথা ও ব্রেইনের ডাক্তার",
       "icon": "neurology"
     },
     {
       "id": "S010",
-      "name": "Surgery",
-      "description": "General and laparoscopic surgery",
+      "name": "সার্জারি ডাক্তার -Surgery",
+      "description": "সাধারণ এবং ল্যাপারোস্কোপিক সার্জারি",
       "icon": "surgery"
     },
     {
       "id": "S011",
-      "name": "Levar & Gastrick and bally",
-      "description": "Levar & Gastrick and bally",
+      "name": "লিভার, গ্যাস্ট্রিক ও পেটের ডাক্তার",
+      "description": "লিভার ও গ্যাস্ট্রিক এবং বেলি বিশেষজ্ঞ ডাক্তার",
       "icon": "levar"
     },
     {
       "id": "S012",
-      "name": "Eye Specialist",
-      "description": "Eye Specialist Doctor",
+      "name": "চক্ষু বিশেষজ্ঞ ডাক্তার",
+      "description": "চক্ষু বিশেষজ্ঞ ডাক্তার, চোখের যত্ন",
       "icon": "eyedoctor"
     },
     {
       "id": "S013",
-      "name": "Cancer and kidny Specialist",
-      "description": "Cancer and kidny Specialist",
+      "name": "ক্যান্সার ও কিডনি বিশেষজ্ঞ ডাক্তার",
+      "description": "ক্যান্সার ও কিডনি বিশেষজ্ঞ ডাক্তার",
       "icon": "Cancerkidny"
     }
   ],
-  "version": 68,
+  "version": 69,
   "lastUpdated": "2026-08-28"
 }
