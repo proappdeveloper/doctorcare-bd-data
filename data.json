@@ -2183,6 +2183,40 @@
       "visitingTime": "সকাল ০৯ টা থেকে সন্ধ্যা ০৭টা",
       "category": "allopathy",
       "status": "active"
+    },
+    {
+      "id": "D123",
+      "name": "হোমিওপ্যাথিক গবেষণা ও স্বাস্থ্য সেবা কেন্দ্ৰ",
+      "degree": "যে কোন নতুন এবং পুরাতন রোগের চিকিৎসার জন্য নির্ভরযোগ্য প্রতিষ্ঠান",
+      "qualification": "নতুন এবং পুরাতন রোগের চিকিৎসার জন্য নির্ভরযোগ্য প্রতিষ্ঠান",
+      "gender": "Male",
+      "experience": "নতুন এবং পুরাতন রোগের চিকিৎসার",
+      "hospital": "শহীদ তিতুমীর সড়ক, বড়মাঠ শহীদ মিনার এর পূর্বপার্শ্বে, হাজীপাড়া,ঠাকুরগাঁও",
+      "district": "Thakurgaon",
+      "address": "শহীদ তিতুমীর সড়ক, বড়মাঠ শহীদ মিনার এর পূর্বপার্শ্বে, হাজীপাড়া,ঠাকুরগাঁও",
+      "phone": "01971434462",
+      "phone2": "01711224739",
+      "visitingDays": "প্রতি রবিবার ও বৃহস্পতিবার",
+      "visitingTime": "সকাল ১০.০০ টা হতে রাত ১০.০০টা",
+      "category": "homeopathy",
+      "status": "active"
+    },
+    {
+      "id": "D124",
+      "name": "ডাঃ জি.পি. সাহা",
+      "degree": "বিএএমএস (ডিইউ) সিডিডি (পিজি, হাসপাতাল) টিসিএম (চীন) চর্ম, যৌন, এলার্জী ও মেডিসিন",
+      "qualification": "ন্যাচারাল মেডিসিন মেডিকেল অফিসার (আয়ুবেদিক) ২৫০ শয্যা বিশিষ্ট জেনারেল হাসপাতাল, ঠাকুরগাঁও। রেজি: নং- A-03 DGHS চর্ম, যৌন, এলার্জি ও আয়ুবেদিক মেডিসিন বিশেষজ্ঞ",
+      "gender": "Male",
+      "experience": "চর্ম, যৌন, এলার্জি ও আয়ুবেদিক মেডিসিন বিশেষজ্ঞ",
+      "hospital": "দি আপডেট ডায়াগনস্টিক সেন্টার",
+      "district": "Thakurgaon",
+      "address": "চেম্বারঃ দি আপডেট ডায়াগনস্টিক সেন্টার",
+      "phone": "01749001460",
+      "phone2": "01749001460",
+      "visitingDays": "প্রতিদিন",
+      "visitingTime": "বিকাল ৩ থেকে রাত ৮টা পর্যন্ত।",
+      "category": "unani",
+      "status": "active"
     }
   ],
   "hospitals": [
@@ -2498,19 +2532,71 @@
   "pharmacies": [
     {
       "id": "P001",
-      "name": "Green Pharmacy",
-      "address": "House 12, Road 5, Dhanmondi, Dhaka",
-      "district": "Dhaka",
-      "phone": "01715000001",
+      "name": "আরমান ফার্মেস",
+      "address": "ঠাকুরগাঁও",
+      "district": "Thakurgaon",
+      "phone": "01710065981",
       "openingHours": "Open 24 hours",
       "services": [
-        "Medicine Sales",
-        "Baby Care",
-        "First Aid Supplies",
-        "Home Delivery"
+        "ঠাকুরগাঁও দেশীয় বিদেশী ওষুধ পাওয়া যায় এবং অনলাইনে ওয়াডার করা যায়- হোম ডেলিভারী দেওয়া যাবে"
       ],
-      "about": "A full-service pharmacy in Dhanmondi with a wide range of medicines and home delivery within the area.",
+      "about": "হোম ডেলিভারী দেওয়া যাবে",
       "image": "pharmacies/pharmacy_001.jpg",
+      "status": "active"
+    },
+    {
+      "id": "P002",
+      "name": "ইকরা ফার্মেসী",
+      "address": "মো মাসুদ রানা ইমন • ঠাকুরগাঁও রোড় ঠাকুরগাঁও",
+      "district": "Thakurgaon",
+      "phone": "01760575870",
+      "services": [
+        "হোম ডেলিভারী দেওয়া যাবে"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "P003",
+      "name": "মৃদুলা ফার্মেসি",
+      "address": "ক্লিনিক লেন হাজিপাড়া, শ্রী রবিন্দ্রনাথ রায়",
+      "district": "Thakurgaon",
+      "phone": "01718613458",
+      "services": [
+        "হোম ডেলিভারী দেওয়া যাবে"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "P004",
+      "name": "বিজয় ফার্মেসি যতীন্দ্র অধিকারী",
+      "address": "যতীন্দ্র অধিকারী কালিবারি",
+      "district": "Thakurgaon",
+      "phone": "01759225966",
+      "services": [
+        "হোম ডেলিভারী দেওয়ার উপায় নাই"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "P005",
+      "name": "মা মেডিকেল সেন্টার",
+      "address": "শহীদ মোহাম্মদ আলী সড়ক, ঠাকুরগাঁও- মোঃ জুলফিকার আলী জীবন",
+      "district": "Thakurgaon",
+      "phone": "01723713568",
+      "services": [
+        "হোম ডেলিভারী দেওয়া যাবে"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "P006",
+      "name": "আমাদের ফার্মেসি",
+      "address": "মোঃ জাহাঙ্গীর বড় খোচাবাড়ী বাজার",
+      "district": "Thakurgaon",
+      "phone": "01718543042",
+      "services": [
+        "হোম ডেলিভারী দেওয়া যাবে"
+      ],
       "status": "active"
     }
   ],
@@ -2899,6 +2985,6 @@
       "icon": "Cancerkidny"
     }
   ],
-  "version": 65,
+  "version": 66,
   "lastUpdated": "2026-08-28"
 }
