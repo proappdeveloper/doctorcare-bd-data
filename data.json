@@ -2826,40 +2826,40 @@
     },
     {
       "id": "T008",
-      "title": "Wash Your Hands, Protect Your Family",
+      "title": "আপনার হাত ধুয়ে নিন, আপনার পরিবারকে সুরক্ষিত রাখুন।",
       "category": "Preventive Care",
-      "shortDescription": "Handwashing is the simplest way to stop infections from spreading. When and how to wash.",
-      "content": "Regular handwashing with soap and water is one of the most effective ways to prevent diarrhea, respiratory infections and other diseases.\n\nWash your hands:\n• Before eating or preparing food.\n• After using the toilet.\n• After coughing, sneezing or touching public surfaces.\n• After coming home from outside.\n\nHow to wash properly: wet hands, apply soap, rub all surfaces for at least 20 seconds (sing 'Happy Birthday' twice), rinse and dry with a clean towel.\n\nIf soap and water are not available, use an alcohol-based hand sanitizer.",
+      "shortDescription": "সংক্রমণ ছড়ানো বন্ধ করার সবচেয়ে সহজ উপায় হলো হাত ধোয়া। কখন এবং কীভাবে হাত ধোবেন।",
+      "content": "সাবান ও পানি দিয়ে নিয়মিত হাত ধোয়া ডায়রিয়া, শ্বাসতন্ত্রের সংক্রমণ এবং অন্যান্য রোগ প্রতিরোধের অন্যতম কার্যকর উপায়।\n\nহাত ধোবেন:\n\n• খাওয়ার বা খাবার তৈরির আগে।\n\n• শৌচাগার ব্যবহারের পরে।\n\n• কাশি, হাঁচি বা সর্বসাধারণের ব্যবহৃত কোনো বস্তু স্পর্শ করার পরে।\n\n• বাইরে থেকে বাড়ি ফেরার পরে।\n\nসঠিকভাবে হাত ধোয়ার পদ্ধতি: হাত ভিজিয়ে নিন, সাবান লাগান, কমপক্ষে ২০ সেকেন্ড ধরে হাতের সমস্ত পৃষ্ঠ ঘষুন (দুবার 'হ্যাপি বার্থডে' গানটি গাইতে গাইতে), তারপর ধুয়ে একটি পরিষ্কার তোয়ালে দিয়ে শুকিয়ে নিন।\n\nযদি সাবান ও পানি না থাকে, তবে অ্যালকোহল-ভিত্তিক হ্যান্ড স্যানিটাইজার ব্যবহার করুন।",
       "image": "tips/tip_008.jpg",
       "date": "2026-07-10",
       "author": "Doctor Care BD Editorial"
     },
     {
       "id": "T009",
-      "title": "Limit Salt and Sugar for a Healthier Heart",
+      "title": "সুস্থ হৃদয়ের জন্য লবণ ও চিনির পরিমাণ সীমিত করুন।",
       "category": "Nutrition",
-      "shortDescription": "Too much salt and sugar is linked to high blood pressure and diabetes. Easy swaps to try.",
-      "content": "Most people consume more salt and sugar than they need, which increases the risk of high blood pressure, heart disease and diabetes.\n\nEasy swaps:\n• Use less salt while cooking and taste food before adding more.\n• Choose fresh food over packaged snacks, which often hide salt and sugar.\n• Drink water, lemon water or unsweetened tea instead of sugary soft drinks.\n• Read the label: look at how much sugar and sodium the product contains.\n\nYour taste buds adjust within a few weeks — food starts to taste right with less salt and sugar.",
+      "shortDescription": "অতিরিক্ত লবণ ও চিনি উচ্চ রক্তচাপ এবং ডায়াবেটিসের কারণ। এর সহজ কিছু বিকল্প চেষ্টা করে দেখতে পারেন।",
+      "content": "বেশিরভাগ মানুষ প্রয়োজনের চেয়ে বেশি লবণ ও চিনি গ্রহণ করে, যা উচ্চ রক্তচাপ, হৃদরোগ এবং ডায়াবেটিসের ঝুঁকি বাড়ায়।\n\nসহজ বিকল্প:\n\n• রান্না করার সময় কম লবণ ব্যবহার করুন এবং আরও লবণ দেওয়ার আগে খাবারের স্বাদ নিন।\n\n• প্যাকেটজাত খাবারের পরিবর্তে তাজা খাবার বেছে নিন, কারণ প্যাকেটে প্রায়শই লবণ ও চিনি লুকানো থাকে।\n\n• চিনিযুক্ত কোমল পানীয়ের পরিবর্তে জল, লেবু জল বা চিনি ছাড়া চা পান করুন।\n\n• লেবেলটি পড়ুন: পণ্যটিতে কী পরিমাণ চিনি এবং সোডিয়াম রয়েছে তা দেখুন।\n\nকয়েক সপ্তাহের মধ্যেই আপনার স্বাদেন্দ্রিয় এতে অভ্যস্ত হয়ে যায় — কম লবণ ও চিনিতেও খাবারের স্বাদ সঠিক মনে হতে শুরু করে।",
       "image": "tips/tip_009.jpg",
       "date": "2026-07-05",
       "author": "Doctor Care BD Editorial"
     },
     {
       "id": "T010",
-      "title": "Know Your Blood Pressure Numbers",
+      "title": "আপনার রক্তচাপের মাত্রা জানুন",
       "category": "Preventive Care",
-      "shortDescription": "High blood pressure often has no symptoms. Understand the numbers and when to act.",
-      "content": "Blood pressure is written as two numbers, for example 120/80. The first number (systolic) measures pressure when the heart beats; the second (diastolic) measures pressure between beats.\n\nGeneral ranges (for adults):\n• Normal: below 120/80.\n• Elevated: 120-129 / below 80.\n• High: 130 or higher / 80 or higher.\n\nHigh blood pressure usually has no symptoms, which is why regular measurement matters. If your reading is high, check it again and see a doctor. Lifestyle changes — less salt, more activity, healthy weight, quitting tobacco — can make a big difference.\n\nThis information is not medical advice. Always discuss your readings with a healthcare professional.",
+      "shortDescription": "উচ্চ রক্তচাপের প্রায়শই কোনো লক্ষণ থাকে না। এর সংখ্যাগুলো বুঝুন এবং কখন ব্যবস্থা নিতে হবে তা জানুন।",
+      "content": "রক্তচাপ দুটি সংখ্যায় লেখা হয়, যেমন ১২০/৮০। প্রথম সংখ্যাটি (সিস্টোলিক) হৃৎপিণ্ডের স্পন্দনের সময়কার চাপ পরিমাপ করে; দ্বিতীয়টি (ডায়াস্টোলিক) দুটি স্পন্দনের মধ্যবর্তী সময়ের চাপ পরিমাপ করে।\n\nসাধারণ পরিসর (প্রাপ্তবয়স্কদের জন্য):\n\n• স্বাভাবিক: ১২০/৮০-এর নিচে।\n\n• স্বাভাবিকের চেয়ে বেশি: ১২০-১২৯ / ৮০-এর নিচে।\n\n• উচ্চ: ১৩০ বা তার বেশি / ৮০ বা তার বেশি।\n\nউচ্চ রক্তচাপের সাধারণত কোনো লক্ষণ থাকে না, একারণেই নিয়মিত পরিমাপ করা জরুরি। আপনার রিডিং বেশি হলে, এটি আবার পরীক্ষা করুন এবং একজন ডাক্তারের সাথে দেখা করুন। জীবনযাত্রার পরিবর্তন — যেমন কম লবণ, বেশি শারীরিক কার্যকলাপ, স্বাস্থ্যকর ওজন, তামাক ত্যাগ — রক্তচাপের ক্ষেত্রে বড় পরিবর্তন আনতে পারে।\n\nএই তথ্য কোনো চিকিৎসা পরামর্শ নয়। আপনার রিডিংগুলো নিয়ে সর্বদা একজন স্বাস্থ্যসেবা বিশেষজ্ঞের সাথে আলোচনা করুন।",
       "image": "tips/tip_010.jpg",
       "date": "2026-06-28",
       "author": "Doctor Care BD Editorial"
     },
     {
       "id": "T011",
-      "title": "Beat the Heat: Staying Safe in Hot Weather",
+      "title": "গরম থেকে বাঁচুন: গরম আবহাওয়ায় সুরক্ষিত থাকা",
       "category": "Preventive Care",
-      "shortDescription": "High temperatures can be dangerous. Simple habits keep you cool and hydrated.",
-      "content": "Hot weather can cause dehydration, heat exhaustion and heat stroke, especially for children, the elderly and people with chronic illness.\n\nStay safe in the heat:\n• Drink water regularly even if you do not feel thirsty.\n• Avoid going outside during the hottest part of the day (11 AM - 3 PM).\n• Wear light, loose clothing and a hat when outdoors.\n• Keep cool with fans, shade and cool showers.\n• Never leave children or elderly people in a parked car.\n\nSeek urgent help if someone shows signs of heat stroke: very high body temperature, confusion, rapid pulse or loss of consciousness.",
+      "shortDescription": "উচ্চ তাপমাত্রা বিপজ্জনক হতে পারে। কিছু সাধারণ অভ্যাস আপনাকে শরীর ঠান্ডা ও সতেজ রাখে।",
+      "content": "গরম আবহাওয়ায় ডিহাইড্রেশন, হিট এক্সহশন এবং হিট স্ট্রোক হতে পারে, বিশেষ করে শিশু, বয়স্ক এবং দীর্ঘস্থায়ী রোগে আক্রান্ত ব্যক্তিদের ক্ষেত্রে।\n\nগরমে সুরক্ষিত থাকুন:\n• তৃষ্ণা না পেলেও নিয়মিত জল পান করুন।\n\n• দিনের সবচেয়ে গরম সময়ে (সকাল ১১টা - বিকেল ৩টা) বাইরে যাওয়া এড়িয়ে চলুন।\n\n• বাইরে থাকাকালীন হালকা, ঢিলেঢালা পোশাক এবং টুপি পরুন।\n\n• ফ্যান, ছায়া এবং ঠান্ডা জলে স্নান করে শরীর ঠান্ডা রাখুন।\n\n• কখনও শিশু বা বয়স্কদের পার্ক করা গাড়িতে রেখে যাবেন না।\n\nযদি কারও মধ্যে হিট স্ট্রোকের লক্ষণ দেখা যায়, যেমন—শরীরের তাপমাত্রা খুব বেশি, বিভ্রান্তি, দ্রুত নাড়ির স্পন্দন বা জ্ঞান হারানো, তাহলে জরুরি সাহায্য নিন।",
       "image": "tips/tip_010.jpg",
       "date": "2026-08-18",
       "author": "Doctor Care BD Editorial"
@@ -3014,6 +3014,6 @@
       "icon": "homeopathy"
     }
   ],
-  "version": 83,
+  "version": 84,
   "lastUpdated": "2026-08-28"
 }
