@@ -1922,7 +1922,7 @@
       "name": "ডাঃ জিয়া হায়দার বসুনিয়া",
       "degree": "এমবিবিএস এফসিপিএস(মেডিসিন),এমডি (হেপাটোলজি)",
       "qualification": "সহকারী অধ্যাপক লিভার বিভাগ রংপুর মেডিকেল কলেজ লিভার ও লিভার ক্যান্সার, পরিপাকতন্ত্র, মেডিসিন বিশেষজ্ঞ ও এন্ডোসকপিস্ট",
-      "specialty": "General & Laparoscopic Surgery",
+      "specialty": "Levar & Gastrick and bally",
       "gender": "Male",
       "experience": "লিভার ক্যান্সার, পরিপাকতন্ত্র, মেডিসিন বিশেষজ্ঞ ও এন্ডোসকপিস্ট",
       "district": "Thakurgaon",
@@ -1939,7 +1939,7 @@
       "name": "ডাঃ আবু হেনা মোঃ সোহেল রানা",
       "degree": "এমবিবিএস বিসিএস স্বাস্থ্য,এমডি (গ্যাস্ট্রোএন্টারোলজি) বিএসএমএমইউ",
       "qualification": "সহকারী অধ্যাপক গ্যাস্ট্রোএন্টারোলজি রংপুর মেডিকেল কলেজ রংপুর গ্যাস্ট্রোলিভার (পেটের অসুখ),জন্ডিস, মেডিসিন, কোলনস্কপি ও এন্ডোসকপি বিশেষজ্ঞ",
-      "specialty": "General & Laparoscopic Surgery",
+      "specialty": "Levar & Gastrick and bally",
       "gender": "Male",
       "experience": "গ্যাস্ট্রোলিভার (পেটের অসুখ),জন্ডিস, মেডিসিন, কোলনস্কপি ও এন্ডোসকপি বিশেষজ্ঞ",
       "hospital": "সেবা ডায়াগনস্টিক সেন্টার",
@@ -1949,6 +1949,59 @@
       "phone2": "01713671229",
       "visitingDays": "প্রতি শুক্রবার",
       "visitingTime": "সকাল ১০টা থেকে সন্ধ্যা ০৭টা",
+      "category": "allopathy",
+      "status": "active"
+    },
+    {
+      "id": "D110",
+      "name": "ডাঃ মোঃ টি জামান",
+      "degree": "এমবিবিএস ডিসিও",
+      "qualification": "বিএন এস বি চক্ষু হাসপাতাল- দিনাজপুর চীপ ও সিনিয়র কনসালটেন্টন্ট,চক্ষু বিশেষজ্ঞ ও সার্জন",
+      "specialty": "Eye Specialist",
+      "gender": "Male",
+      "experience": "চীপ ও সিনিয়র কনসালটেন্টন্ট,চক্ষু বিশেষজ্ঞ ও সার্জন",
+      "hospital": "সিরিয়াল দিতে হয় বুধবার সকাল থেকে সিরিয়াল দিতে কল করুন",
+      "district": "Thakurgaon",
+      "address": "প্রতি শুক্রবার সকাল ১০ টা থেকে রাত ১০ টা, সিরিয়াল দিতে হয় বুধবার সকাল থেকে",
+      "phone": "01729596280",
+      "phone2": "01729596280",
+      "visitingDays": "প্রতি শুক্রবার",
+      "visitingTime": "সকাল ১০ টা থেকে রাত ১০ টা",
+      "category": "allopathy",
+      "status": "active"
+    },
+    {
+      "id": "D111",
+      "name": "গ্রামীন চক্ষুহাসপাতাল ঠাকুরগাঁও",
+      "degree": "অত্যাধুনিক মেশিনে পরীক্ষা নিরীক্ষা করে থাকে",
+      "qualification": "সপ্তাহে সাতদিন ডাক্তার বসে অত্যাধুনিক মেশিনে পরীক্ষা নিরীক্ষা করে থাকে",
+      "specialty": "Eye Specialist",
+      "gender": "Male",
+      "experience": "অত্যাধুনিক মেশিনে পরীক্ষা নিরীক্ষা করে থাকে",
+      "hospital": "সপ্তাহে সাতদিন ডাক্তার বসে",
+      "district": "Thakurgaon",
+      "phone": "01730782980",
+      "phone2": "01708159160",
+      "visitingDays": "প্রতিদিন",
+      "visitingTime": "সকাল ০৯ টা হতে বিকাল ০৫ টা",
+      "category": "allopathy",
+      "status": "active"
+    },
+    {
+      "id": "D112",
+      "name": "ডাঃ মোঃ শামীম শাহ্",
+      "degree": "এমবিবিএস (আর ইউ) পিজিটি (চক্ষু)",
+      "qualification": "মরিয়ম চক্ষু হাসপতাল উলিপুর কুড়িগ্রাম ডিও বিএসএমএমইউ চক্ষু বিশেষজ্ঞ ও সার্জন",
+      "specialty": "Eye Specialist",
+      "gender": "Male",
+      "experience": "চক্ষু বিশেষজ্ঞ ও সার্জন",
+      "hospital": "ঠাকুরগাঁও চশমা ঘর, পুরাতন বাসস্টান",
+      "district": "Thakurgaon",
+      "address": "ঠাকুরগাঁও চশমা ঘর, পুরাতন বাসস্টান,",
+      "phone": "01725585900",
+      "phone2": "01725585900",
+      "visitingTime": "প্ৰতি শুক্রবার",
+      "image": "সকাল ১০ টা থেকে বিকাল ০৩টা",
       "category": "allopathy",
       "status": "active"
     }
@@ -2653,8 +2706,14 @@
       "name": "Levar & Gastrick and bally",
       "description": "Levar & Gastrick and bally",
       "icon": "levar"
+    },
+    {
+      "id": "S012",
+      "name": "Eye Specialist",
+      "description": "Eye Specialist Doctor",
+      "icon": "eyedoctor"
     }
   ],
-  "version": 62,
+  "version": 63,
   "lastUpdated": "2026-08-28"
 }
