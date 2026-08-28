@@ -2881,43 +2881,43 @@
   "emergencyServices": [
     {
       "id": "E001",
-      "name": "National Emergency",
+      "name": "জাতীয় জরুরি অবস্থা",
       "phone": "999",
-      "description": "The national emergency number for police, fire and medical emergencies in Bangladesh.",
+      "description": "বাংলাদেশে পুলিশ, দমকল ও চিকিৎসা সংক্রান্ত জরুরি অবস্থার জন্য জাতীয় জরুরি নম্বর।",
       "type": "national",
-      "sortOrder": 1
+      "sortOrder": "1"
     },
     {
       "id": "E002",
-      "name": "Ambulance Helpline",
+      "name": "অ্যাম্বুলেন্স হেল্পলাইন",
       "phone": "999",
-      "description": "Ask the national emergency operator to dispatch an ambulance to your location.",
+      "description": "আপনার অবস্থানে একটি অ্যাম্বুলেন্স পাঠাতে জাতীয় জরুরি পরিষেবা অপারেটরকে বলুন।",
       "type": "ambulance",
-      "sortOrder": 2
+      "sortOrder": "2"
     },
     {
       "id": "E003",
-      "name": "Hospital Emergency",
+      "name": "হাসপাতালের জরুরি অবস্থা",
       "phone": "999",
-      "description": "For urgent medical emergencies, call the helpline or go directly to the nearest hospital emergency unit.",
+      "description": "জরুরি চিকিৎসার প্রয়োজনে হেল্পলাইনে ফোন করুন অথবা সরাসরি নিকটতম হাসপাতালের জরুরি বিভাগে যান।",
       "type": "hospital",
-      "sortOrder": 3
+      "sortOrder": "3"
     },
     {
       "id": "E004",
-      "name": "Police",
+      "name": "জাতীয় পুলিশ জরুরি",
       "phone": "999",
-      "description": "Report crimes and security emergencies to the national police emergency line.",
+      "description": "অপরাধ ও নিরাপত্তাজনিত জরুরি অবস্থা সম্পর্কে জাতীয় পুলিশ জরুরি লাইনে জানান।",
       "type": "police",
-      "sortOrder": 4
+      "sortOrder": "4"
     },
     {
       "id": "E005",
-      "name": "Fire Service",
+      "name": "ফায়ার সার্ভিস",
       "phone": "999",
-      "description": "Report fires and rescue emergencies to the fire service through the national line.",
+      "description": "জাতীয় লাইনের মাধ্যমে দমকল বাহিনীকে অগ্নিকাণ্ড ও উদ্ধার সংক্রান্ত জরুরি অবস্থার খবর দিন।",
       "type": "fire",
-      "sortOrder": 5
+      "sortOrder": "5"
     }
   ],
   "bloodBanks": [
@@ -3027,6 +3027,6 @@
       "icon": "homeopathy"
     }
   ],
-  "version": 75,
+  "version": 76,
   "lastUpdated": "2026-08-28"
 }
