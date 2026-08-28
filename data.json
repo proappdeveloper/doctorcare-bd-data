@@ -2920,7 +2920,21 @@
       "sortOrder": 5
     }
   ],
-  "bloodBanks": [],
+  "bloodBanks": [
+    {
+      "id": "BB001",
+      "name": "ঠাকুরগাঁও ব্লাড ব্যাংক এন্ড ট্রান্সফিউশন সেন্টার",
+      "address": "সরকারপাড়া (আধুনিক সদর হাসপাতালের পশ্চিম পার্শ্বে",
+      "district": "Thakurgaon",
+      "phone": "01780917477",
+      "phone2": "01780917477",
+      "availableBlood": [],
+      "services": [
+        "ব্লাড ব্যাংক এন্ড ট্রান্সফিউশন সেন্টার"
+      ],
+      "status": "active"
+    }
+  ],
   "specialties": [
     {
       "id": "S001",
@@ -3019,6 +3033,6 @@
       "icon": "homeopathy"
     }
   ],
-  "version": 73,
+  "version": 74,
   "lastUpdated": "2026-08-28"
 }
