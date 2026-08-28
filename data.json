@@ -2112,6 +2112,77 @@
       "visitingTime": "সকাল ১০ টা হতে বিকাল ০৫ টা",
       "category": "allopathy",
       "status": "active"
+    },
+    {
+      "id": "D119",
+      "name": "ডাঃ মোঃ হানিফ উলুব্বী",
+      "degree": "এমবিবিএস, এম ডি (রেডিয়েশন অনকোলজী)",
+      "qualification": "সহকারী অধ্যাপক জাতীয় ক্যান্সার গবেষনা ইন্সটিটিউট ও হাসপাতাল মহাখালী - ঢাকা ক্যান্সার বিশেষজ্ঞ",
+      "specialty": "Cancer and kidny Specialist",
+      "gender": "Male",
+      "experience": "সহকারী অধ্যাপক জাতীয় ক্যান্সার গবেষনা ইন্সটিটিউট ও হাসপাতাল মহাখালী - ঢাকা ক্যান্সার বিশেষজ্ঞ",
+      "hospital": "সেন্ট্রাল ডায়াগনস্টিক সেন্টার (সিডিসি)",
+      "district": "Thakurgaon",
+      "address": "চেম্বারঃ সেন্ট্রাল ডায়াগনস্টিক সেন্টার (সিডিসি), কেমোথেরাপি দেওয়া হয়",
+      "phone": "01774336336",
+      "phone2": "01774336336",
+      "visitingDays": "প্রতি শুক্রবার",
+      "visitingTime": "সকাল ১০ টা হতে রাত ০৮ টা",
+      "category": "allopathy",
+      "status": "active"
+    },
+    {
+      "id": "D120",
+      "name": "অধ্যাপক ডাঃ মোঃ রুহুল কুদ্দুছ",
+      "degree": "এমবিবিএস, এফসিপিএস (সার্জারী),এম এস (ইউরোলোজি),এফআরসিএস (গ্লাসগো)",
+      "qualification": "অধ্যাপক ও অধ্যক্ষ সার্জারী- সাতক্ষীরা মেডিকেল কলেজ ও হাসপাতাল, সাতক্ষীরা জেনারেল, ল্যাপারোস্কপকি সার্জন ও ইউরোলজিস্ট",
+      "specialty": "Cancer and kidny Specialist",
+      "gender": "Male",
+      "experience": "ল্যাপারোস্কপকি সার্জন ও ইউরোলজিস্ট",
+      "hospital": "মাম হাসপাতাল ও ডায়াগনস্টিক সেন্টার",
+      "district": "Thakurgaon",
+      "address": "চেম্বারঃ মাম হাসপাতাল ও ডায়াগনস্টিক সেন্টার,",
+      "phone": "01770721083",
+      "phone2": "01750668980",
+      "visitingDays": "প্রতি বৃহস্পতবিার রাত ০৮ টা থেকে ০৯ টা/ শুক্রবার বিকাল ১০ টা থেকে দুপুর ১২ টা",
+      "visitingTime": "০৮ টা থেকে ০৯ টা / ১০ টা থেকে দুপুর ১২ টা",
+      "category": "allopathy",
+      "status": "active"
+    },
+    {
+      "id": "D121",
+      "name": "ডাঃ মোঃ ফারুকুল হাসান তুষার",
+      "degree": "এমবিবিএস, বিসিএস (স্বাস্থ্য) এম সি পিএস (মেডিসিন)এমএসিপি আমেরিকা,এম ডি (নেফ্রোলোজী),সিডিসি (ডায়াবেটিকস) বারডেম",
+      "qualification": "রংপুর মেডিকেল কলেজ হাসপাতাল-রংপুর মেডিসিন ও কিডনি রোগ বিশেষজ্ঞ",
+      "specialty": "Cancer and kidny Specialist",
+      "gender": "Male",
+      "experience": "মেডিসিন ও কিডনি রোগ বিশেষজ্ঞ",
+      "hospital": "সেন্ট্রাল ডায়াগনস্টিক সেন্টার (সিডিসি)",
+      "district": "Thakurgaon",
+      "address": "চেম্বারঃ সেন্ট্রাল ডায়াগনস্টিক সেন্টার (সিডিসি),",
+      "phone": "01774336336",
+      "phone2": "01774336336",
+      "visitingDays": "প্রতি শুক্রবার",
+      "visitingTime": "সকাল ১০ টা হতে বিকাল ৫ টা",
+      "category": "allopathy",
+      "status": "active"
+    },
+    {
+      "id": "D122",
+      "name": "ডাঃ আকতার কামাল",
+      "degree": "এমবিবিএস, সিসিডি (বারডেম),এমএমইডি,পি এইচ ডি (নেফ্রোলোজি)",
+      "qualification": "সিনিয়র কনসাল্টেন্ট, এম আব্দুর রহিম মেডিকেল কলেজ ও হাসপাতাল দিনাজপুর মেডিসিন, কিডনি ও আইসিইউ বিশেষজ্ঞ",
+      "specialty": "Cancer and kidny Specialist",
+      "gender": "Male",
+      "experience": "মেডিসিন, কিডনি ও আইসিইউ বিশেষজ্ঞ",
+      "hospital": "সেবা ডায়াগনস্টিক সেন্টার",
+      "address": "চেম্বারঃ সেবা ডায়াগনস্টিক সেন্টার",
+      "phone": "01713671227",
+      "phone2": "01713671229",
+      "visitingDays": "প্রতি শুক্রবার",
+      "visitingTime": "সকাল ০৯ টা থেকে সন্ধ্যা ০৭টা",
+      "category": "allopathy",
+      "status": "active"
     }
   ],
   "hospitals": [
@@ -2820,8 +2891,14 @@
       "name": "Eye Specialist",
       "description": "Eye Specialist Doctor",
       "icon": "eyedoctor"
+    },
+    {
+      "id": "S013",
+      "name": "Cancer and kidny Specialist",
+      "description": "Cancer and kidny Specialist",
+      "icon": "Cancerkidny"
     }
   ],
-  "version": 64,
+  "version": 65,
   "lastUpdated": "2026-08-28"
 }
