@@ -2663,6 +2663,90 @@
       "phone": "01311886021",
       "emergencyAvailable": true,
       "status": "active"
+    },
+    {
+      "id": "H015",
+      "name": "প্রাইম ক্লিনিক এন্ড ডায়াগনস্টিক কমপ্লেক্স",
+      "type": "Hospital",
+      "about": "জে.জে টাওয়ার, তেঁতুলিয়া রোড ,পঞ্চগড় নিউ আদর্শ হাসপাতাল মিঠাপুকুর তেঁতুলিয়া রোড,পঞ্চগড়",
+      "services": [],
+      "address": "জে.জে টাওয়ার, তেঁতুলিয়া রোড ,পঞ্চগড় নিউ আদর্শ হাসপাতাল মিঠাপুকুর তেঁতুলিয়া রোড,পঞ্চগড়",
+      "district": "Panchagarh",
+      "phone": "01331511453",
+      "emergencyAvailable": true,
+      "status": "active"
+    },
+    {
+      "id": "H016",
+      "name": "নর্দান ডায়াগনস্টিক কমপ্লেক্স",
+      "type": "Hospital",
+      "about": "নর্দান ডায়াগনস্টিক কমপ্লেক্স\nতেঁতুলিয়া রোড,পঞ্চগড়",
+      "services": [],
+      "address": "তেঁতুলিয়া রোড,পঞ্চগড়",
+      "district": "Panchagarh",
+      "phone": "01784107828",
+      "emergencyAvailable": true,
+      "status": "active"
+    },
+    {
+      "id": "H017",
+      "name": "রওশন ক্লিনিক এন্ড জেনারেল হাসপাতাল",
+      "type": "Hospital",
+      "about": "রওশন ক্লিনিক এন্ড জেনারেল হাসপাতাল জজ কোর্ট রোড, পঞ্চগড়",
+      "services": [],
+      "address": "জজ কোর্ট রোড, পঞ্চগড়",
+      "district": "Panchagarh",
+      "phone": "01750149419",
+      "emergencyAvailable": true,
+      "status": "active"
+    },
+    {
+      "id": "H018",
+      "name": "নর্দান ডায়াগনস্টিক কমপ্লেক্স",
+      "type": "Diagnostic Center",
+      "about": "নর্দান ডায়াগনস্টিক কমপ্লেক্স, তেঁতুলিয়া রোড,পঞ্চগড়",
+      "services": [],
+      "address": "তেঁতুলিয়া রোড,পঞ্চগড়",
+      "district": "Panchagarh",
+      "phone": "01784107828",
+      "emergencyAvailable": false,
+      "status": "active"
+    },
+    {
+      "id": "H019",
+      "name": "হেলথ কেয়ার স্পেশালাইজড হসপিটাল ও ডায়াগনস্টিক সেন্টার পঞ্চগড়",
+      "type": "Hospital",
+      "about": "হেলথ কেয়ার স্পেশালাইজড হসপিটাল ও ডায়াগনস্টিক সেন্টার পঞ্চগড় তেঁতুলিয়া রোড,পঞ্চগড়",
+      "services": [],
+      "address": "পঞ্চগড় তেঁতুলিয়া রোড,পঞ্চগড়",
+      "district": "Panchagarh",
+      "phone": "01722720054",
+      "emergencyAvailable": true,
+      "status": "active"
+    },
+    {
+      "id": "H020",
+      "name": "গ্রীণ ডায়াগনস্টিক সেন্টার",
+      "type": "Diagnostic Center",
+      "about": "গ্রীণ ডায়াগনস্টিক সেন্টার, তেঁতুলিয়া রোড,পঞ্চগড়",
+      "services": [],
+      "address": "গ্রীণ ডায়াগনস্টিক সেন্টার, তেঁতুলিয়া রোড,পঞ্চগড়",
+      "district": "Panchagarh",
+      "phone": "01758589944",
+      "emergencyAvailable": false,
+      "status": "active"
+    },
+    {
+      "id": "H021",
+      "name": "হেলথ কেয়ার স্পেশালাইজড হসপিটাল ও ডায়াগনস্টিক সেন্টার",
+      "type": "Hospital",
+      "about": "হেলথ কেয়ার স্পেশালাইজড হসপিটাল ও ডায়াগনস্টিক সেন্টার পঞ্চগড় তেঁতুলিয়া রোড,পঞ্চগড়",
+      "services": [],
+      "address": "হেলথ কেয়ার স্পেশালাইজড হসপিটাল ও ডায়াগনস্টিক সেন্টার পঞ্চগড় তেঁতুলিয়া রোড,পঞ্চগড়",
+      "district": "Panchagarh",
+      "phone": "01722720054",
+      "emergencyAvailable": true,
+      "status": "active"
     }
   ],
   "clinics": [
@@ -2706,6 +2790,18 @@
       "phone": "01716195552",
       "emergencyAvailable": false,
       "openingHours": "8:00 AM - 12:00 PM",
+      "status": "active"
+    },
+    {
+      "id": "C004",
+      "name": "রওশন ক্লিনিক এন্ড জেনারেল হাসপাতাল",
+      "type": "Clinic",
+      "about": "রওশন ক্লিনিক এন্ড জেনারেল হাসপাতাল, জজ কোর্ট রোড, পঞ্চগড়",
+      "services": [],
+      "address": "রওশন ক্লিনিক এন্ড জেনারেল হাসপাতাল, জজ কোর্ট রোড, পঞ্চগড়",
+      "district": "Panchagarh",
+      "phone": "01750149419",
+      "emergencyAvailable": true,
       "status": "active"
     }
   ],
@@ -2997,6 +3093,30 @@
         "Blood Tests,Imaging,Health Packages,Home Sample Collection"
       ],
       "status": "active"
+    },
+    {
+      "id": "DC010",
+      "name": "নর্দান ডায়াগনস্টিক কমপ্লেক্স",
+      "type": "Diagnostic Center",
+      "address": "নর্দান ডায়াগনস্টিক কমপ্লেক্স, তেঁতুলিয়া রোড,পঞ্চগড়",
+      "district": "Panchagarh",
+      "phone": "01784107828",
+      "services": [],
+      "availableTests": [],
+      "about": "নর্দান ডায়াগনস্টিক কমপ্লেক্স, তেঁতুলিয়া রোড,পঞ্চগড়",
+      "status": "active"
+    },
+    {
+      "id": "DC011",
+      "name": "গ্রীণ ডায়াগনস্টিক সেন্টার",
+      "type": "Diagnostic Center",
+      "address": "গ্রীণ ডায়াগনস্টিক সেন্টার তেঁতুলিয়া রোড,পঞ্চগড়",
+      "district": "Panchagarh",
+      "phone": "01758589944",
+      "services": [],
+      "availableTests": [],
+      "about": "গ্রীণ ডায়াগনস্টিক সেন্টার তেঁতুলিয়া রোড,পঞ্চগড়",
+      "status": "active"
     }
   ],
   "healthTips": [
@@ -3260,6 +3380,6 @@
       "icon": "homeopathy"
     }
   ],
-  "version": 87,
+  "version": 88,
   "lastUpdated": "2026-08-28"
 }
