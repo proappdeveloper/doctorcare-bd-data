@@ -2199,7 +2199,8 @@
       "visitingDays": "প্রতি রবিবার ও বৃহস্পতিবার",
       "visitingTime": "সকাল ১০.০০ টা হতে রাত ১০.০০টা",
       "category": "homeopathy",
-      "status": "active"
+      "status": "active",
+      "specialty": "হোমিওপ্যাথি বিশেষজ্ঞ"
     },
     {
       "id": "D124",
@@ -2216,7 +2217,8 @@
       "visitingDays": "প্রতিদিন",
       "visitingTime": "বিকাল ৩ থেকে রাত ৮টা পর্যন্ত।",
       "category": "unani",
-      "status": "active"
+      "status": "active",
+      "specialty": "ইউনানী বিশেষজ্ঞ"
     },
     {
       "id": "D125",
@@ -2918,6 +2920,7 @@
       "sortOrder": 5
     }
   ],
+  "bloodBanks": [],
   "specialties": [
     {
       "id": "S001",
@@ -3002,8 +3005,20 @@
       "name": "ব্লাড ব্যাংক - ঠাকুরগাঁও",
       "description": "আমার রক্তে বাচুক প্ৰাণ, এসো করি রক্তদান",
       "icon": "blad"
+    },
+    {
+      "id": "S015",
+      "name": "ইউনানী বিশেষজ্ঞ",
+      "description": "ইউনানী বিশেষজ্ঞ- Unani Specialist",
+      "icon": "unani"
+    },
+    {
+      "id": "S016",
+      "name": "হোমিওপ্যাথি বিশেষজ্ঞ",
+      "description": "হোমিওপ্যাথি বিশেষজ্ঞ - Homeopathy Specialist",
+      "icon": "homeopathy"
     }
   ],
-  "version": 72,
+  "version": 73,
   "lastUpdated": "2026-08-28"
 }
