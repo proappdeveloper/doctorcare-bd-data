@@ -3015,12 +3015,6 @@
       "icon": "cancer"
     },
     {
-      "id": "S014",
-      "name": "ব্লাড ব্যাংক - ঠাকুরগাঁও",
-      "description": "আমার রক্তে বাচুক প্ৰাণ, এসো করি রক্তদান",
-      "icon": "blad"
-    },
-    {
       "id": "S015",
       "name": "ইউনানী বিশেষজ্ঞ",
       "description": "ইউনানী বিশেষজ্ঞ- Unani Specialist",
@@ -3033,6 +3027,6 @@
       "icon": "homeopathy"
     }
   ],
-  "version": 74,
+  "version": 75,
   "lastUpdated": "2026-08-28"
 }
