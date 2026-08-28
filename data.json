@@ -1916,6 +1916,21 @@
       "visitingTime": "বিকাল ৩.০০ টা হতে রাত ০৮.০০টা",
       "category": "allopathy",
       "status": "active"
+    },
+    {
+      "id": "D108",
+      "name": "ডাঃ জিয়া হায়দার বসুনিয়া",
+      "degree": "এমবিবিএস এফসিপিএস(মেডিসিন),এমডি (হেপাটোলজি)",
+      "qualification": "সহকারী অধ্যাপক লিভার বিভাগ রংপুর মেডিকেল কলেজ লিভার ও লিভার ক্যান্সার, পরিপাকতন্ত্র, মেডিসিন বিশেষজ্ঞ ও এন্ডোসকপিস্ট",
+      "specialty": "General & Laparoscopic Surgery",
+      "gender": "Male",
+      "experience": "লিভার ক্যান্সার, পরিপাকতন্ত্র, মেডিসিন বিশেষজ্ঞ ও এন্ডোসকপিস্ট",
+      "district": "Thakurgaon",
+      "address": "চেম্বারঃ মাম হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার,",
+      "phone": "01788187707",
+      "phone2": "01754547097",
+      "visitingDays": "প্রতি শুক্রবার - সরাসরি সিরিয়াল দিতে হবে -ফোনে সিরিয়াল নেওয়া হয় না",
+      "visitingTime": "সকাল ০৯টা থেকে রাত ০৮টা"
     }
   ],
   "hospitals": [
@@ -2612,8 +2627,14 @@
       "name": "Surgery",
       "description": "General and laparoscopic surgery",
       "icon": "surgery"
+    },
+    {
+      "id": "S011",
+      "name": "Levar & Gastrick and bally",
+      "description": "Levar & Gastrick and bally",
+      "icon": "levar"
     }
   ],
-  "version": 60,
+  "version": 61,
   "lastUpdated": "2026-08-28"
 }
